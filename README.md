@@ -12,8 +12,8 @@ Primary operating system with virtualization software.
 
 ```
 Examples: 
-Windows 10 with Virtual Box
-MacOS with VMWare
+Windows 10 with Virtual Box/VMWare
+MacOS with Virtual Box/VMWare
 ```
 
 ## Contributing
@@ -22,11 +22,14 @@ Please email me: willthomas@ctemplar.com if you would like to contribute to Open
 
 ## Authors
 
-Will Thomas [WilliamThomas-sec](https://github.com/WilliamThomas-sec)
+Will Thomas [Link](https://github.com/WilliamThomas-sec)
+@BushidoToken on Twitter [Link](https://twitter.com/BushidoToken)
 
 ## Acknowledgments
 
-
+```
+[Your name here]
+```
 
 ### Phishing Tools
 
