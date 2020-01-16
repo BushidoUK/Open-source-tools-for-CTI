@@ -86,7 +86,7 @@ Will Thomas [WilliamThomas-sec](https://github.com/WilliamThomas-sec)
 
 [Privacy Checklist from M. Bazzell](https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf)
 
-[FOCA](https://github.com/ElevenPaths/FOCA
+[FOCA](https://github.com/ElevenPaths/FOCA)
 
 [Maltego](https://www.paterva.com/downloads.php)
 
@@ -192,3 +192,9 @@ Will Thomas [WilliamThomas-sec](https://github.com/WilliamThomas-sec)
 [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
 
 [Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
+
+### Misc
+
+[Canary Tokens](http://canarytokens.org/generate#)
+
+[Why the f@ck was I breached?](https://whythefuckwasibreached.com/)
