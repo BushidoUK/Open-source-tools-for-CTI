@@ -22,8 +22,7 @@ Please email me: willthomas@ctemplar.com if you would like to contribute to Open
 
 ## Authors
 
-Will Thomas [Link](https://github.com/WilliamThomas-sec)
-@BushidoToken on Twitter [Link](https://twitter.com/BushidoToken)
+WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ## Acknowledgments
 
