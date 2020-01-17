@@ -4,7 +4,7 @@ Welcome, this is a repository of opensource tools that I have found interesting 
 
 ## Getting Started
 
-Please ensure that some of the tools require permission to use and are not all are for commercial use.
+Please ensure that some of the tools require permission to use and not all are for commercial use.
 
 ### Prerequisites
 
@@ -77,6 +77,19 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [NetCraft](http://itools.com/tool/robtex-domain-ip-address-lookup)
 
+[GitHub Code Search](https://github.com/search)
+
+[Yandex Image Translate](https://translate.yandex.com/ocr)
+
+
+### VPN
+
+[Proton VPN](https://protonvpn.com/)
+
+[CyberGhost VPN](https://www.cyberghostvpn.com/)
+
+[Nord VPN](https://nordvpn.com/)
+
 
 ### OSINT Investigation Tools
 
@@ -112,6 +125,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Warble Alerts](https://warble.co/)
 
+[OSINT Team](https://osint.team/home)
+
 
 ### Malware Analysis Tools
 
@@ -126,6 +141,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [BlueLiv](https://community.blueliv.com/#!/discover)
 
 [Virus Bay](https://beta.virusbay.io/)
+
+[IDA](https://www.hex-rays.com/products/ida/)
 
 
 ### Virtual Machines
@@ -161,6 +178,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj?utm_source=chrome-ntp-icon)
 
+[Stratus Mitre ATT&CK TTPs](https://chrome.google.com/webstore/detail/stratus/jjpceekakjijeamhoeedjfgmhgbefcmp?utm_source=chrome-ntp-icon)
+
 
 ### GitHub Projects
 
@@ -193,10 +212,27 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
 
+
+### Security News
+
 [Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
+
+[DataBreaches.net](https://www.databreaches.net/news/)
+
+[ZDNET](https://www.zdnet.com/)
+
+[Bleeping computer](https://www.bleepingcomputer.com/)
+
+[Full Disclosure](https://seclists.org/fulldisclosure/)
+
 
 ### Misc
 
 [Canary Tokens](http://canarytokens.org/generate#)
 
+[Tiny URL](https://tinyurl.com/)
+
 [Why the f@ck was I breached?](https://whythefuckwasibreached.com/)
+
+
+[The Onion Router (TOR)](https://www.torproject.org/)
