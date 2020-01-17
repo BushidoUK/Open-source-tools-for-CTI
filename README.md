@@ -88,7 +88,6 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [CyberGhost VPN](https://www.cyberghostvpn.com/)
 
-[Nord VPN](https://nordvpn.com/)
 
 
 ### OSINT Investigation Tools
