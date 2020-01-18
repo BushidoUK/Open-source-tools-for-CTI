@@ -30,7 +30,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Your name here]
 ```
 
-### Phishing Tools :fishing:
+### Phishing Tools :fishing-rod:
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
 
