@@ -30,7 +30,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Your name here]
 ```
 
-### Phishing Tools
+### Phishing Tools :small_blue_diamond:
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
 
@@ -157,6 +157,15 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Buscador VM](https://inteltechniques.com/buscador/)
 
 [Parrot OS](https://parrotlinux.org/download.php)
+
+
+### Secure Email Accounts
+
+[Protonmail](https://protonmail.com/)
+
+[CTemplar](https://ctemplar.com/)
+
+[10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html)
 
 
 ### Chrome Extensions
