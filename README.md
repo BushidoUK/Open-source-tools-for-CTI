@@ -65,7 +65,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Browserling](https://www.browserling.com/)
 
 
-### Search Engine Tools
+### Search Engine Tools :small_blue_diamond:
 
 [Shodan](https://www.shodan.io/)
 
@@ -82,23 +82,22 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Yandex Image Translate](https://translate.yandex.com/ocr)
 
 
-### VPN
+### VPN :small_blue_diamond:
 
 [Proton VPN](https://protonvpn.com/)
 
 [CyberGhost VPN](https://www.cyberghostvpn.com/)
 
 
-
-### OSINT Investigation Tools
+### OSINT Investigation Tools :small_blue_diamond:
 
 [OSINT Framework](https://osintframework.com/)
 
 [OSINT Yoga](https://yoga.osint.ninja/)
 
-[Intel Techniques from M. Bazzell](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
+[Intel Techniques from M. Bazzell](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf) :closed_book:
 
-[Privacy Checklist from M. Bazzell](https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf)
+[Privacy Checklist from M. Bazzell](https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf) :closed_book:
 
 [FOCA](https://github.com/ElevenPaths/FOCA)
 
@@ -127,7 +126,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [OSINT Team](https://osint.team/home)
 
 
-### Malware Analysis Tools
+### Malware Analysis Tools :small_blue_diamond:
 
 [OTX Alienvault](https://otx.alienvault.com/)
 
@@ -144,7 +143,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [IDA](https://www.hex-rays.com/products/ida/)
 
 
-### Virtual Machines
+### Virtual Machines :small_blue_diamond:
 
 [Virtual Machines from Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
@@ -159,7 +158,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Parrot OS](https://parrotlinux.org/download.php)
 
 
-### Secure Email Accounts
+### Secure Email Accounts :small_blue_diamond:
 
 [Protonmail](https://protonmail.com/)
 
@@ -168,7 +167,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html)
 
 
-### Chrome Extensions
+### Chrome Extensions :small_blue_diamond:
 
 [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?utm_source=chrome-ntp-icon)
 
@@ -189,7 +188,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Stratus Mitre ATT&CK TTPs](https://chrome.google.com/webstore/detail/stratus/jjpceekakjijeamhoeedjfgmhgbefcmp?utm_source=chrome-ntp-icon)
 
 
-### GitHub Projects
+### GitHub Projects :small_blue_diamond:
 
 [Sherlock](https://github.com/sherlock-project/sherlock)
 
@@ -202,7 +201,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [URL Crazy](https://github.com/urbanadventurer/urlcrazy)
 
 
-### Collections
+### Collections :small_blue_diamond:
 
 [SecLists](https://github.com/danielmiessler/SecLists)
 
@@ -210,18 +209,18 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Google Dorks](https://github.com/jakejarvis/awesome-shodan-queries)
 
-[APT Activity](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+[APT Activity](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) :closed_book:
 
 [OSINT Tools](https://github.com/jivoi/awesome-osint)
 
-[This Week in OSINT Medium Blog](https://medium.com/week-in-osint)
+[This Week in OSINT Medium Blog](https://medium.com/week-in-osint) :closed_book:
 
 [MITRE ATT&CK Framework](https://attack.mitre.org/)
 
 [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
 
 
-### Security News
+### Security News :small_blue_diamond:
 
 [Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
 
@@ -234,13 +233,12 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Full Disclosure](https://seclists.org/fulldisclosure/)
 
 
-### Misc
+### Misc :small_blue_diamond:
 
 [Canary Tokens](http://canarytokens.org/generate#)
 
 [Tiny URL](https://tinyurl.com/)
 
 [Why the f@ck was I breached?](https://whythefuckwasibreached.com/)
-
 
 [The Onion Router (TOR)](https://www.torproject.org/)
