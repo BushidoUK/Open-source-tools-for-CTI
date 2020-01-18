@@ -65,7 +65,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Browserling](https://www.browserling.com/)
 
 
-### Search Engine Tools 👁️‍🗨️
+### Search Engine Tools 👁️‍
 
 [Shodan](https://www.shodan.io/)
 
