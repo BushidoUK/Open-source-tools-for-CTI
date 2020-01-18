@@ -235,15 +235,15 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ### Computer Emergency Response Teams ⚔️
 
-🇺🇸 [US CISA](https://www.us-cert.gov/ncas/alerts)
+[US CISA](https://www.us-cert.gov/ncas/alerts)
 
-🇦🇺 [Australia CERT](https://www.auscert.org.au/resources/security-bulletins/)
+[Australia CERT](https://www.auscert.org.au/resources/security-bulletins/)
 
-🇨🇦 [Canada CERT](https://cyber.gc.ca/en/alerts-advisories)
+[Canada CERT](https://cyber.gc.ca/en/alerts-advisories)
 
-🇬🇧 [UK NCSC](https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc&start=0&rows=20)
+[UK NCSC](https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc&start=0&rows=20)
 
-🇭🇰 [Hong Kong CERT](https://www.hkcert.org/security-bulletin)
+[Hong Kong CERT](https://www.hkcert.org/security-bulletin)
 
 
 ### Misc :small_blue_diamond:
