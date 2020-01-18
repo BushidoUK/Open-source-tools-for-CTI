@@ -232,6 +232,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Full Disclosure](https://seclists.org/fulldisclosure/)
 
+[Cisco Talos Blog](https://blog.talosintelligence.com/)
+
 
 ### Computer Emergency Response Teams ⚔️
 
