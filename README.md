@@ -30,7 +30,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Your name here]
 ```
 
-### Phishing Tools :small_blue_diamond:
+### Phishing Tools :fishing:
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
 
