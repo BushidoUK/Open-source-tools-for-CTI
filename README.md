@@ -246,6 +246,42 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Hong Kong CERT](https://www.hkcert.org/security-bulletin)
 
 
+### Twitter Accounts to follow 🐦
+Cyber Security researcher [@gcluely](https://twitter.com/gcluley)
+
+Cyber Security researcher [@KeavinBeaumont](https://twitter.com/GossiTheDog)
+
+Cyber Security reporter [@campuscodi](https://twitter.com/campuscodi)
+
+Ethical Hacker [@VK_Intel](https://twitter.com/VK_Intel)
+
+Malware analysts [@malwrhunterteam](https://twitter.com/malwrhunterteam)
+
+Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
+
+
+### Podcasts 🎙️
+
+[Darknet Diaries](https://darknetdiaries.com/)
+
+[Cyber Security Sauna](https://twitter.com/cybersauna?lang=en)
+
+[Malicious Life](https://malicious.life/)
+
+[The Cyber Wire](https://thecyberwire.com/podcasts)
+
+[Smashing Security](https://www.smashingsecurity.com/episodes)
+
+
+### Conferences 🎤
+
+[DefCON](https://www.defcon.org/)
+
+[Black Hat](https://www.blackhat.com/)
+
+[Secure South West](https://www.securesouthwest.com/?page=home)
+
+
 ### Misc :small_blue_diamond:
 
 [Canary Tokens](http://canarytokens.org/generate#)
