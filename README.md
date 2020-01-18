@@ -95,10 +95,6 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [OSINT Yoga](https://yoga.osint.ninja/)
 
-[Intel Techniques from M. Bazzell](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf) :closed_book:
-
-[Privacy Checklist from M. Bazzell](https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf) :closed_book:
-
 [FOCA](https://github.com/ElevenPaths/FOCA)
 
 [Maltego](https://www.paterva.com/downloads.php)
@@ -124,6 +120,10 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Warble Alerts](https://warble.co/)
 
 [OSINT Team](https://osint.team/home)
+
+[Intel Techniques from M. Bazzell](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf) :closed_book:
+
+[Privacy Checklist from M. Bazzell](https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf) :closed_book:
 
 
 ### Malware Analysis Tools 🦠
@@ -213,11 +213,11 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [OSINT Tools](https://github.com/jivoi/awesome-osint)
 
-[This Week in OSINT Medium Blog](https://medium.com/week-in-osint) :closed_book:
-
 [MITRE ATT&CK Framework](https://attack.mitre.org/)
 
 [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
+
+[This Week in OSINT Medium Blog](https://medium.com/week-in-osint) :closed_book:
 
 
 ### Security News 🗺️
@@ -284,10 +284,10 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 
 ### Misc :small_blue_diamond:
 
+[The Onion Router (TOR)](https://www.torproject.org/)
+
 [Canary Tokens](http://canarytokens.org/generate#)
 
 [Tiny URL](https://tinyurl.com/)
 
-[Why the f@ck was I breached?](https://whythefuckwasibreached.com/)
-
-[The Onion Router (TOR)](https://www.torproject.org/)
+[Why the f@ck was I breached?](https://whythefuckwasibreached.com/) 😂
