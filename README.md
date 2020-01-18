@@ -82,14 +82,14 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Yandex Image Translate](https://translate.yandex.com/ocr)
 
 
-### VPN :small_blue_diamond:
+### VPN 🕵️
 
 [Proton VPN](https://protonvpn.com/)
 
 [CyberGhost VPN](https://www.cyberghostvpn.com/)
 
 
-### OSINT Investigation Tools :small_blue_diamond:
+### OSINT Investigation Tools 🔎
 
 [OSINT Framework](https://osintframework.com/)
 
@@ -126,7 +126,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [OSINT Team](https://osint.team/home)
 
 
-### Malware Analysis Tools :small_blue_diamond:
+### Malware Analysis Tools 🦠
 
 [OTX Alienvault](https://otx.alienvault.com/)
 
@@ -158,7 +158,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Parrot OS](https://parrotlinux.org/download.php)
 
 
-### Secure Email Accounts :small_blue_diamond:
+### Secure Email Accounts 📧🔐
 
 [Protonmail](https://protonmail.com/)
 
@@ -201,7 +201,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [URL Crazy](https://github.com/urbanadventurer/urlcrazy)
 
 
-### Collections :small_blue_diamond:
+### Collections 📑
 
 [SecLists](https://github.com/danielmiessler/SecLists)
 
@@ -220,7 +220,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
 
 
-### Security News :small_blue_diamond:
+### Security News 🗺️
 
 [Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
 
@@ -231,6 +231,19 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Bleeping computer](https://www.bleepingcomputer.com/)
 
 [Full Disclosure](https://seclists.org/fulldisclosure/)
+
+
+### Computer Emergency Response Teams ⚔️
+
+🇺🇸 [US CISA](https://www.us-cert.gov/ncas/alerts)
+
+🇦🇺 [Australia CERT](https://www.auscert.org.au/resources/security-bulletins/)
+
+🇨🇦 [Canada CERT](https://cyber.gc.ca/en/alerts-advisories)
+
+🇬🇧 [UK NCSC](https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc&start=0&rows=20)
+
+🇭🇰 [Hong Kong CERT](https://www.hkcert.org/security-bulletin)
 
 
 ### Misc :small_blue_diamond:
