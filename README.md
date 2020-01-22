@@ -32,44 +32,43 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ### Index ℹ️
 
-[Phishing Tools 🎣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#phishing-tools-)
+Phishing Tools 🎣
 
-[Search Engine Tools 👁️‍](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#search-engine-tools-%EF%B8%8F)
+Search Engine Tools 👁️‍
 
-[VPN 🕵️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#vpn-%EF%B8%8F)
+VPN 🕵️
 
-[OSINT Investigation Tools 🔎](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#osint-investigation-tools-)
+OSINT Investigation Tools 🔎
 
-[Malware Analysis Tools 🦠](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#malware-analysis-tools-)
+Malware Analysis Tools 🦠
 
-[Virtual Machines :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#virtual-machines-small_blue_diamond)
+Virtual Machines :small_blue_diamond:
 
-[Secure Email Accounts 📧🔐](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#secure-email-accounts-)
+Secure Email Accounts 📧🔐
 
-[Chrome Extensions :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#chrome-extensions-small_blue_diamond)
+Chrome Extensions :small_blue_diamond:
 
-[GitHub Projects :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#github-projects-small_blue_diamond)
+GitHub Projects :small_blue_diamond:
 
-[Collections 📑](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#collections-)
+Collections 📑
 
-[Security News 🗺️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#security-news-%EF%B8%8F)
+Security News 🗺️
 
-[Computer Emergency Response Teams ⚔️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#computer-emergency-response-teams-%EF%B8%8F)
+Computer Emergency Response Teams ⚔️
 
-[Twitter Accounts to follow & Tools 🐦](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#twitter-accounts-to-follow---tools)
+Twitter Accounts to follow & Tools 🐦
 
-[Podcasts 🎙️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#podcasts-%EF%B8%8F)
+Podcasts 🎙️
 
-[Conferences 🎤](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#conferences-)
+Conferences 🎤
 
-[Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#misc-small_blue_diamond)
-
-```
+Misc :small_blue_diamond:
 
 ```
 
+```
 
-### Phishing Tools 🎣 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Phishing Tools 🎣 
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
 
@@ -109,7 +108,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Search Engine Tools 👁️‍ // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Search Engine Tools 👁️‍ 
 
 [Shodan](https://www.shodan.io/)
 
@@ -131,7 +130,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### VPN 🕵️ // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### VPN 🕵️ 
 
 [Proton VPN](https://protonvpn.com/)
 
@@ -141,7 +140,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### OSINT Investigation Tools 🔎 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### OSINT Investigation Tools 🔎
 
 [OSINT Framework](https://osintframework.com/)
 
@@ -181,7 +180,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Malware Analysis Tools 🦠 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Malware Analysis Tools 🦠
 
 [OTX Alienvault](https://otx.alienvault.com/)
 
@@ -203,7 +202,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Virtual Machines :small_blue_diamond: // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Virtual Machines :small_blue_diamond:
 
 [Virtual Machines from Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
@@ -227,7 +226,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Secure Email Accounts 📧🔐 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Secure Email Accounts 📧🔐 //
 
 [Protonmail](https://protonmail.com/)
 
@@ -239,7 +238,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Chrome Extensions :small_blue_diamond: // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Chrome Extensions :small_blue_diamond:
 
 [Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?utm_source=chrome-ntp-icon)
 
@@ -263,7 +262,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### GitHub Projects :small_blue_diamond: // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### GitHub Projects :small_blue_diamond:
 
 [Sherlock](https://github.com/sherlock-project/sherlock)
 
@@ -281,7 +280,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
  
-### Collections 📑 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Collections 📑 
 
 [SecLists](https://github.com/danielmiessler/SecLists)
 
@@ -303,7 +302,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Security News 🗺️ // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Security News 🗺️ 
 
 [Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
 
@@ -317,8 +316,11 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Cisco Talos Blog](https://blog.talosintelligence.com/)
 
+```
 
-### Computer Emergency Response Teams ⚔️ // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+```
+
+### Computer Emergency Response Teams ⚔️
 
 [US CISA](https://www.us-cert.gov/ncas/alerts)
 
@@ -334,7 +336,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-### Twitter Accounts to follow & Tools 🐦 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Twitter Accounts to follow & Tools 🐦
 Cyber Security researcher [@gcluely](https://twitter.com/gcluley)
 
 Cyber Security researcher [@KeavinBeaumont](https://twitter.com/GossiTheDog)
@@ -359,7 +361,7 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 
 ```
 
-### Podcasts 🎙️ // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Podcasts 🎙️
 
 [Darknet Diaries](https://darknetdiaries.com/)
 
@@ -375,7 +377,7 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 
 ```
 
-### Conferences 🎤 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Conferences 🎤
 
 [DefCON](https://www.defcon.org/)
 
@@ -387,7 +389,7 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 
 ```
 
-### Misc :small_blue_diamond: // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+### Misc :small_blue_diamond:
 
 [The Onion Router (TOR)](https://www.torproject.org/)
 
@@ -398,3 +400,9 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 [Tiny URL](https://tinyurl.com/)
 
 [Why the f@ck was I breached?](https://whythefuckwasibreached.com/) 😂
+
+```
+
+```
+[Index](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
+
