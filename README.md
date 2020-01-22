@@ -66,6 +66,9 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Onyphe](https://www.onyphe.io/)
 
+```
+-----------
+```
 
 ### Search Engine Tools 👁️‍
 
@@ -85,6 +88,9 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Binary Edge](https://www.binaryedge.io/)
 
+```
+-----------
+```
 
 ### VPN 🕵️
 
