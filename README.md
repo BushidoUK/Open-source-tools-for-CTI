@@ -30,6 +30,41 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Your name here]
 ```
 
+### Index
+
+[Phishing Tools 🎣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#phishing-tools-)
+
+Search Engine Tools 👁️‍
+
+VPN 🕵️
+
+OSINT Investigation Tools 🔎
+
+Malware Analysis Tools 🦠
+
+Virtual Machines :small_blue_diamond:
+
+Secure Email Accounts 📧🔐
+
+Chrome Extensions :small_blue_diamond:
+
+GitHub Projects :small_blue_diamond:
+
+Collections 📑
+
+Security News 🗺️
+
+Computer Emergency Response Teams ⚔️
+
+Twitter Accounts to follow 🐦 & Tools
+
+Podcasts 🎙️
+
+Conferences 🎤
+
+Misc :small_blue_diamond:
+
+
 ### Phishing Tools 🎣
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
