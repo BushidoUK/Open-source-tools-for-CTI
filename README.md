@@ -34,35 +34,35 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Phishing Tools 🎣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#phishing-tools-)
 
-Search Engine Tools 👁️‍
+[Search Engine Tools 👁️‍](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#search-engine-tools-%EF%B8%8F)
 
-VPN 🕵️
+[VPN 🕵️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#vpn-%EF%B8%8F)
 
-OSINT Investigation Tools 🔎
+[OSINT Investigation Tools 🔎](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#osint-investigation-tools-)
 
-Malware Analysis Tools 🦠
+[Malware Analysis Tools 🦠](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#malware-analysis-tools-)
 
-Virtual Machines :small_blue_diamond:
+[Virtual Machines :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#virtual-machines-small_blue_diamond)
 
-Secure Email Accounts 📧🔐
+[Secure Email Accounts 📧🔐](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#secure-email-accounts-)
 
-Chrome Extensions :small_blue_diamond:
+[Chrome Extensions :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#chrome-extensions-small_blue_diamond)
 
-GitHub Projects :small_blue_diamond:
+[GitHub Projects :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#github-projects-small_blue_diamond)
 
-Collections 📑
+[Collections 📑](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#collections-)
 
-Security News 🗺️
+[Security News 🗺️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#security-news-%EF%B8%8F)
 
-Computer Emergency Response Teams ⚔️
+[Computer Emergency Response Teams ⚔️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#computer-emergency-response-teams-%EF%B8%8F)
 
-Twitter Accounts to follow 🐦 & Tools
+[Twitter Accounts to follow & Tools 🐦](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#twitter-accounts-to-follow---tools)
 
-Podcasts 🎙️
+[Podcasts 🎙️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#podcasts-%EF%B8%8F)
 
-Conferences 🎤
+[Conferences 🎤](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#conferences-)
 
-Misc :small_blue_diamond:
+[Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#misc-small_blue_diamond)
 
 
 ### Phishing Tools 🎣
@@ -327,7 +327,7 @@ Misc :small_blue_diamond:
 
 ```
 
-### Twitter Accounts to follow 🐦 & Tools
+### Twitter Accounts to follow & Tools 🐦
 Cyber Security researcher [@gcluely](https://twitter.com/gcluley)
 
 Cyber Security researcher [@KeavinBeaumont](https://twitter.com/GossiTheDog)
