@@ -30,7 +30,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Your name here]
 ```
 
-### Index
+### Index ℹ️
 
 [Phishing Tools 🎣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#phishing-tools-)
 
@@ -65,7 +65,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#misc-small_blue_diamond)
 
 ```
-
+[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index)
 ```
 
 ### Phishing Tools 🎣
