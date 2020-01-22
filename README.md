@@ -65,7 +65,13 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#misc-small_blue_diamond)
 
 ```
+
+```
+
 [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index)
+
+```
+
 ```
 
 ### Phishing Tools 🎣
@@ -103,6 +109,11 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Browserling](https://www.browserling.com/)
 
 [Onyphe](https://www.onyphe.io/)
+
+```
+
+```
+[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index)
 
 ```
 
