@@ -64,6 +64,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Browserling](https://www.browserling.com/)
 
+[Onyphe](https://www.onyphe.io/)
+
 
 ### Search Engine Tools 👁️‍
 
@@ -80,6 +82,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [GitHub Code Search](https://github.com/search)
 
 [Yandex Image Translate](https://translate.yandex.com/ocr)
+
+[Binary Edge](https://www.binaryedge.io/)
 
 
 ### VPN 🕵️
@@ -111,8 +115,6 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [liveuamap](https://liveuamap.com/)
 
-[Tweetdeck](https://tweetdeck.twitter.com/)
-
 [Reddit6](https://reddit6.com/#/Stream)
 
 [Google Alerts](https://www.google.co.uk/alerts)
@@ -121,9 +123,12 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [OSINT Team](https://osint.team/home)
 
+[OSINT Tool Blog](https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada)
+
 [Intel Techniques from M. Bazzell](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf) :closed_book:
 
 [Privacy Checklist from M. Bazzell](https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf) :closed_book:
+
 
 
 ### Malware Analysis Tools 🦠
@@ -142,6 +147,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [IDA](https://www.hex-rays.com/products/ida/)
 
+[Wireshark](https://www.wireshark.org/download.html)
+
 
 ### Virtual Machines :small_blue_diamond:
 
@@ -156,6 +163,12 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Buscador VM](https://inteltechniques.com/buscador/)
 
 [Parrot OS](https://parrotlinux.org/download.php)
+
+[Virtual Box](https://www.virtualbox.org/)
+
+[Security Onion](https://securityonion.net/)
+
+[Black Arch Linux](https://blackarch.org/downloads.html#ova-download)
 
 
 ### Secure Email Accounts 📧🔐
@@ -199,6 +212,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [ComboList Generator](https://github.com/jsoverson/combolist-generator)
 
 [URL Crazy](https://github.com/urbanadventurer/urlcrazy)
+
+[Automater](http://www.tekdefense.com/automater/)
 
 
 ### Collections 📑
@@ -248,7 +263,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Hong Kong CERT](https://www.hkcert.org/security-bulletin)
 
 
-### Twitter Accounts to follow 🐦
+### Twitter Accounts to follow 🐦 & Tools
 Cyber Security researcher [@gcluely](https://twitter.com/gcluley)
 
 Cyber Security researcher [@KeavinBeaumont](https://twitter.com/GossiTheDog)
@@ -260,6 +275,14 @@ Ethical Hacker [@VK_Intel](https://twitter.com/VK_Intel)
 Malware analysts [@malwrhunterteam](https://twitter.com/malwrhunterteam)
 
 Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
+
+[Tweetdeck](https://tweetdeck.twitter.com/)
+
+[Geo-Chip](http://www.geochirp.com/)
+
+[Tweeps-Map](http://tweepsmap.com/)
+
+[Tinfo-Leak](https://tinfoleak.com/)
 
 
 ### Podcasts 🎙️
@@ -287,6 +310,8 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 ### Misc :small_blue_diamond:
 
 [The Onion Router (TOR)](https://www.torproject.org/)
+
+[PowerShell scripts](https://stackify.com/powershell-commands-every-developer-should-know/)
 
 [Canary Tokens](http://canarytokens.org/generate#)
 
