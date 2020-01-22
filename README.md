@@ -68,13 +68,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
 
-```
-
-```
-
-### Phishing Tools 🎣
+### Phishing Tools 🎣 // [Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
 
@@ -113,11 +108,6 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 ```
 
 ```
-[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
-
-```
-
-```
 
 ### Search Engine Tools 👁️‍
 
@@ -147,6 +137,9 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [CyberGhost VPN](https://www.cyberghostvpn.com/)
 
+```
+
+```
 
 ### OSINT Investigation Tools 🔎
 
