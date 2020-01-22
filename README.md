@@ -68,7 +68,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 ```
 
-[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index)
+[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
 
 ```
 
@@ -113,7 +113,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 ```
 
 ```
-[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index)
+[Index ℹ️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
 
 ```
 
