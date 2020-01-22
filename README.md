@@ -6,6 +6,10 @@ Welcome, this is a repository of opensource tools that I have found interesting 
 
 Please ensure that some of the tools require permission to use and not all are for commercial use.
 
+```
+Hint: Pressing middle mouse button opens in new tab.
+```
+
 ### Prerequisites
 
 Primary operating system with virtualization software.
