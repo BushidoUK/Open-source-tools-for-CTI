@@ -54,6 +54,8 @@ Chrome Extensions :small_blue_diamond:
 
 GitHub Projects :small_blue_diamond:
 
+Honeypots :small_blue_diamond:
+
 Collections 📑
 
 Security News 🗺️
@@ -291,7 +293,21 @@ Misc :small_blue_diamond:
 ```
 
 ```
- 
+
+### Honeypots
+
+[Google Cloud](https://cloud.google.com/)
+
+[Amazon Web Services](https://aws.amazon.com/)
+
+[T-pot Honeypot](https://github.com/dtag-dev-sec/tpotce)
+
+[HoneyDrive by Brute Force Labs](https://bruteforce.gr/honeydrive/)
+
+```
+
+```
+
 ### Collections 📑 
 
 [SecLists](https://github.com/danielmiessler/SecLists)
