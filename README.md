@@ -40,7 +40,7 @@ Phishing Tools 🎣
 
 Search Engine Tools 👁️‍
 
-VPN 🕵️
+VPN & Private browsing 🕵️
 
 OSINT Investigation Tools 🔎
 
