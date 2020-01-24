@@ -134,11 +134,17 @@ Misc :small_blue_diamond:
 
 ```
 
-### VPN 🕵️ 
+### VPN & Private browsing 🕵️ 
 
 [Proton VPN](https://protonvpn.com/)
 
 [CyberGhost VPN](https://www.cyberghostvpn.com/)
+
+[The Onion Router (TOR)](https://www.torproject.org/)
+
+[I2P](https://geti2p.net/en/)
+
+[Freenet](https://freenetproject.org/index.html)
 
 ```
 
@@ -280,6 +286,8 @@ Misc :small_blue_diamond:
 
 [Automater](http://www.tekdefense.com/automater/)
 
+[GitGot](https://github.com/BishopFox/GitGot)
+
 ```
 
 ```
@@ -395,13 +403,13 @@ Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
 
 ### Misc :small_blue_diamond:
 
-[The Onion Router (TOR)](https://www.torproject.org/)
-
 [PowerShell scripts](https://stackify.com/powershell-commands-every-developer-should-know/)
 
 [Canary Tokens](http://canarytokens.org/generate#)
 
 [Tiny URL](https://tinyurl.com/)
+
+[Kaspersky Password checker](https://password.kaspersky.com/)
 
 [Why the f@ck was I breached?](https://whythefuckwasibreached.com/) 😂
 
