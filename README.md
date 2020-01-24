@@ -54,7 +54,7 @@ Chrome Extensions :small_blue_diamond:
 
 GitHub Projects :small_blue_diamond:
 
-Honeypots :small_blue_diamond:
+Honeypots 🍯
 
 Collections 📑
 
@@ -238,7 +238,7 @@ Misc :small_blue_diamond:
 
 ```
 
-### Secure Email Accounts 📧🔐 //
+### Secure Email Accounts 📧🔐
 
 [Protonmail](https://protonmail.com/)
 
@@ -294,7 +294,7 @@ Misc :small_blue_diamond:
 
 ```
 
-### Honeypots
+### Honeypots 🍯
 
 [Google Cloud](https://cloud.google.com/)
 
