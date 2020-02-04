@@ -172,8 +172,6 @@ Misc :small_blue_diamond:
 
 [MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
 
-[TraceLabs OSINT Tools List](https://www.tracelabs.org/resources/tools/)
-
 [Snap Map](https://map.snapchat.com/)
 
 [liveuamap](https://liveuamap.com/)
@@ -337,6 +335,8 @@ Misc :small_blue_diamond:
 [APT Activity](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) :closed_book:
 
 [OSINT Tools](https://github.com/jivoi/awesome-osint)
+
+[TraceLabs OSINT Tools List](https://www.tracelabs.org/resources/tools/)
 
 [MITRE ATT&CK Framework](https://attack.mitre.org/)
 
