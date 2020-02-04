@@ -132,6 +132,8 @@ Misc :small_blue_diamond:
 
 [Binary Edge](https://www.binaryedge.io/)
 
+[Threat Connect](https://threatconnect.com/free/)
+
 ```
 
 ```
@@ -166,6 +168,8 @@ Misc :small_blue_diamond:
 
 [NMAP/Zenmap](https://nmap.org/zenmap/)
 
+[Image EXIF Data](https://exifdata.com/)
+
 [MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
 
 [TraceLabs OSINT Tools List](https://www.tracelabs.org/resources/tools/)
@@ -199,6 +203,8 @@ Misc :small_blue_diamond:
 [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 [App.Any.Run](https://app.any.run/)
+
+[Passive Total - RISK IQ](https://community.riskiq.com/registration)
 
 [Hybrid Analysis](https://www.hybrid-analysis.com/)
 
@@ -289,6 +295,18 @@ Misc :small_blue_diamond:
 [Automater](http://www.tekdefense.com/automater/)
 
 [GitGot](https://github.com/BishopFox/GitGot)
+
+[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
+
+[RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
+
+[Infoga](https://github.com/m4ll0k/Infoga)
+
+[KockMail](https://github.com/4w4k3/KnockMail)
+
+[ReconDog](https://github.com/s0md3v/ReconDog)
+
+[Sn1per](https://github.com/1N3/Sn1per)
 
 ```
 
