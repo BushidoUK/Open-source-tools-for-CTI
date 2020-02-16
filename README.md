@@ -330,7 +330,7 @@ Misc :small_blue_diamond:
 
 [Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
 
-[Google Dorks](https://github.com/jakejarvis/awesome-shodan-queries)
+[Google Dorks](https://github.com/WilliamThomas-sec/google_dork_list)
 
 [APT Activity](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) :closed_book:
 
