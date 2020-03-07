@@ -2,6 +2,8 @@
 
 Welcome, this is a repository of opensource tools that I have found interesting and usefull over the years.
 
+Please feel free to check out my blog too: https://bushidotoken.blogspot.com/
+
 ## Getting Started
 
 Please ensure that some of the tools require permission to use and not all are for commercial use.
