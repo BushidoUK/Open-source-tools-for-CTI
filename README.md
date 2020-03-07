@@ -165,6 +165,7 @@ Misc :small_blue_diamond:
 [OSINT Yoga](https://yoga.osint.ninja/)
 
 [FOCA](https://github.com/ElevenPaths/FOCA)
+[For FOCA - MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
 
 [Maltego](https://www.paterva.com/downloads.php)
 
@@ -174,7 +175,7 @@ Misc :small_blue_diamond:
 
 [Image EXIF Data](https://exifdata.com/)
 
-[MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
+[Synapsint](https://www.synapsint.com/)
 
 [Snap Map](https://map.snapchat.com/)
 
@@ -185,6 +186,8 @@ Misc :small_blue_diamond:
 [Google Alerts](https://www.google.co.uk/alerts)
 
 [Warble Alerts](https://warble.co/)
+
+[Aware-Online's OSINT tool list](https://www.aware-online.com/en/osint-tools/)
 
 [OSINT Team](https://osint.team/home)
 
@@ -309,6 +312,8 @@ Misc :small_blue_diamond:
 [ReconDog](https://github.com/s0md3v/ReconDog)
 
 [Sn1per](https://github.com/1N3/Sn1per)
+
+[Final Recon](https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/)
 
 ```
 
