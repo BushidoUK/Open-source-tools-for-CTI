@@ -165,7 +165,7 @@ Misc :small_blue_diamond:
 [OSINT Yoga](https://yoga.osint.ninja/)
 
 [FOCA](https://github.com/ElevenPaths/FOCA)
-[For FOCA - MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
+[(Needeed to work - MS-SQL Server 2017 Express)](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
 
 [Maltego](https://www.paterva.com/downloads.php)
 
