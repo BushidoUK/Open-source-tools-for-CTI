@@ -76,6 +76,8 @@ Misc :small_blue_diamond:
 
 ### Phishing Tools 🎣 
 
+[StalkPhish](https://github.com/t4d/StalkPhish)
+
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
 
 [PhishStats](https://phishstats.info/)
@@ -325,6 +327,8 @@ Misc :small_blue_diamond:
 ```
 
 ### Collections 📑 
+
+[CXSECURITY - Exploits & Bug tracking](https://cxsecurity.com/)
 
 [SecLists](https://github.com/danielmiessler/SecLists)
 
