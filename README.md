@@ -123,6 +123,12 @@ Dealing with phishing pages:
 
 [Onyphe](https://www.onyphe.io/)
 
+Phishing kit trackers: 
+
+https://github.com/JoulioK/Phishing_Kits
+
+https://github.com/neonprimetime/PhishingKitTracker
+
 ```
 
 ```
@@ -377,10 +383,6 @@ Dealing with phishing pages:
 [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
 
 [This Week in OSINT Medium Blog](https://medium.com/week-in-osint) :closed_book:
-
-Phishing kit trackers: 
-
-https://github.com/JoulioK/Phishing_Kits
 
 
 
