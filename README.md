@@ -165,6 +165,8 @@ https://github.com/neonprimetime/PhishingKitTracker
 
 [Threat Connect](https://threatconnect.com/free/)
 
+[Threat Crowd - by OTX](https://www.threatcrowd.org/)
+
 ```
 
 ```
