@@ -316,7 +316,7 @@ https://github.com/neonprimetime/PhishingKitTracker
 
 ### GitHub Projects :small_blue_diamond:
 
-[OSweep - OSINT Dashboard & Triage VM](https://github.com/neonprimetime/PhishingKitTracker)
+[OSweep - OSINT Dashboard & Triage VM](https://github.com/ecstatic-nobel/OSweep)
 
 [Sherlock](https://github.com/sherlock-project/sherlock)
 
