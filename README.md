@@ -133,6 +133,8 @@ Dealing with phishing pages:
 
 [Dehashed](https://www.dehashed.com/)
 
+[Data breach news](https://www.databreaches.net/)
+
 ```
 
 ```
