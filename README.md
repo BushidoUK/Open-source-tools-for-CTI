@@ -78,6 +78,8 @@ Misc :small_blue_diamond:
 
 ### Phishing Tools 🎣 
 
+Finding phishing pages:
+
 [StalkPhish](https://github.com/t4d/StalkPhish)
 
 [Phishing Catcher by x0rz](https://github.com/x0rz/phishing_catcher)
@@ -89,6 +91,15 @@ Misc :small_blue_diamond:
 [NormShield](https://services.normshield.com/phishing-domain-search)
 
 [crt.sh](https://crt.sh/)
+
+[DNSlytics](https://dnslytics.com/)
+
+[DNS Dumpster](https://dnsdumpster.com/)
+
+[Phishing Kit Hunter](https://github.com/t4d/PhishingKitHunter)
+
+
+Dealing with phishing pages:
 
 [Whois DomainTools](http://whois.domaintools.com/)
 
@@ -108,11 +119,19 @@ Misc :small_blue_diamond:
 
 [PhishTank](https://www.phishtank.com/)
 
-[DNSlytics](https://dnslytics.com/)
-
 [Browserling](https://www.browserling.com/)
 
 [Onyphe](https://www.onyphe.io/)
+
+```
+
+```
+
+### Databreaches
+
+[Have I been pwned?](https://haveibeenpwned.com/)
+
+[Dehashed](https://www.dehashed.com/)
 
 ```
 
@@ -153,6 +172,8 @@ Misc :small_blue_diamond:
 [I2P](https://geti2p.net/en/)
 
 [Freenet](https://freenetproject.org/index.html)
+
+[Brave browser](https://brave.com/)
 
 ```
 
@@ -355,11 +376,19 @@ Misc :small_blue_diamond:
 
 [This Week in OSINT Medium Blog](https://medium.com/week-in-osint) :closed_book:
 
+Phishing kit trackers: 
+
+https://github.com/JoulioK/Phishing_Kits
+
+
+
 ```
 
 ```
 
 ### Security News 🗺️ 
+
+[The Cyber Wire daily breifing](https://thecyberwire.com/newsletters/daily-briefing)
 
 [Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
 
