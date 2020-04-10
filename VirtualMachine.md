@@ -1,6 +1,6 @@
 ### Virtual Machines & Operating Systems :small_blue_diamond:
 
-Virtual Machines from Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 Kali Linux - https://www.kali.org/downloads/
 
