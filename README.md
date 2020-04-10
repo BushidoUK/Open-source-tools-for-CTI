@@ -436,7 +436,7 @@ Malware sharing sites:
 
 [The Cyber Wire daily breifing](https://thecyberwire.com/newsletters/daily-briefing)
 
-[Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
+[NewsNow - Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
 
 [DataBreaches.net](https://www.databreaches.net/news/)
 
@@ -446,7 +446,7 @@ Malware sharing sites:
 
 [Full Disclosure](https://seclists.org/fulldisclosure/)
 
-[Cisco Talos Blog](https://blog.talosintelligence.com/)
+[Daily Cyber Digest - Trending Malware](https://www.silobreaker.com/tag/daily-cyber-digest/)
 
 ```
 
