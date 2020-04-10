@@ -54,137 +54,27 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Virtual Machines :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/VirtualMachine.md)
 
-Secure Email Accounts 📧🔐
+[Secure Email Accounts 📧🔐](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Secure%20Email.md)
 
-Chrome Extensions :small_blue_diamond:
+[Chrome Extensions :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Chrome%20Extensions.md)
 
-GitHub Projects :small_blue_diamond:
+[GitHub Projects :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Github%20Projects.md)
 
-Honeypots 🍯
+[Honeypots 🍯](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Honeypots.md)
 
-Collections 📑
+[Collections 📑](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Collections.md)
 
-Security News 🗺️
+[Security News 🗺️]()
 
-Computer Emergency Response Teams ⚔️
+[Computer Emergency Response Teams ⚔️]()
 
-Twitter Accounts to follow & Tools 🐦
+[Twitter Accounts to follow & Tools 🐦]()
 
-Podcasts 🎙️
+[Podcasts 🎙️]()
 
-Conferences 🎤
+[Conferences 🎤]()
 
-Misc :small_blue_diamond:
-
-```
-
-```
-
-### Secure Email Accounts 📧🔐
-
-[Protonmail](https://protonmail.com/)
-
-[CTemplar](https://ctemplar.com/)
-
-[10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html)
-
-```
-
-```
-
-### Chrome Extensions :small_blue_diamond:
-
-[Shodan](https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?utm_source=chrome-ntp-icon)
-
-[Sputnik](https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd?utm_source=chrome-ntp-icon)
-
-[Mitaka](https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg?utm_source=chrome-ntp-icon)
-
-[Distill Web Monitor](https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?utm_source=chrome-ntp-icon)
-
-[Bulk URL Opener](https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?utm_source=chrome-ntp-icon)
-
-[uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon)
-
-[Search by Image](https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm?utm_source=chrome-ntp-icon)
-
-[Go Back in Time](https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj?utm_source=chrome-ntp-icon)
-
-[Stratus Mitre ATT&CK TTPs](https://chrome.google.com/webstore/detail/stratus/jjpceekakjijeamhoeedjfgmhgbefcmp?utm_source=chrome-ntp-icon)
-
-```
-
-```
-
-### GitHub Projects :small_blue_diamond:
-
-[OSweep - OSINT Dashboard & Triage VM](https://github.com/ecstatic-nobel/OSweep)
-
-[Sherlock](https://github.com/sherlock-project/sherlock)
-
-[Slurp](https://github.com/0xbharath/slurp)
-
-[Yar](https://github.com/Furduhlutur/yar)
-
-[ComboList Generator](https://github.com/jsoverson/combolist-generator)
-
-[URL Crazy](https://github.com/urbanadventurer/urlcrazy)
-
-[Automater](http://www.tekdefense.com/automater/)
-
-[GitGot](https://github.com/BishopFox/GitGot)
-
-[EyeWitness](https://github.com/FortyNorthSecurity/EyeWitness)
-
-[RED_HAWK](https://github.com/Tuhinshubhra/RED_HAWK)
-
-[Infoga](https://github.com/m4ll0k/Infoga)
-
-[KockMail](https://github.com/4w4k3/KnockMail)
-
-[ReconDog](https://github.com/s0md3v/ReconDog)
-
-[Sn1per](https://github.com/1N3/Sn1per)
-
-[Final Recon](https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/)
-
-```
-
-```
-
-### Honeypots 🍯
-
-[T-pot Honeypot](https://github.com/dtag-dev-sec/tpotce)
-
-[HoneyDrive by Brute Force Labs](https://bruteforce.gr/honeydrive/)
-
-```
-
-```
-
-### Collections 📑 
-
-[CXSECURITY - Exploits & Bug tracking](https://cxsecurity.com/)
-
-[SecLists](https://github.com/danielmiessler/SecLists)
-
-[Shodan Queries](https://github.com/jakejarvis/awesome-shodan-queries)
-
-[Google Dorks](https://github.com/WilliamThomas-sec/google_dork_list)
-
-[APT Activity](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections) :closed_book:
-
-[OSINT Tools](https://github.com/jivoi/awesome-osint)
-
-[TraceLabs OSINT Tools List](https://www.tracelabs.org/resources/tools/)
-
-[MITRE ATT&CK Framework](https://attack.mitre.org/)
-
-[MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) [Web App](https://mitre-attack.github.io/attack-navigator/enterprise/)
-
-[This Week in OSINT Medium Blog](https://medium.com/week-in-osint) :closed_book:
-
-
+[Misc :small_blue_diamond:]()
 
 ```
 
