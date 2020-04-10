@@ -1,18 +1,18 @@
 ### Website Security
 
-[Wappalyzer](https://www.wappalyzer.com)
+Wappalyzer - https://www.wappalyzer.com
 
-[Builtwith](https://builtwith.com/)
+Builtwith - https://builtwith.com/
 
-[Exploit-DB](https://www.exploit-db.com)
+Exploit-DB - https://www.exploit-db.com
 
-[DNS Dumpster](https://dnsdumpster.com)
+DNS Dumpster - https://dnsdumpster.com
 
-[Mx ToolBox](https://mxtoolbox.com/blacklists.aspx)
+Mx ToolBox - https://mxtoolbox.com/blacklists.aspx
 
-[BPG Hurrican electric](https://bgp.he.net/)
+BPG Hurrican electric - https://bgp.he.net/
 
-[Qualys SSL test](https://www.ssllabs.com/ssltest/)
+Qualys SSL test  - https://www.ssllabs.com/ssltest/
 
 ```
 
