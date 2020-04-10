@@ -40,6 +40,10 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 Phishing Tools 🎣
 
+Data breaches :small_red_diamond:
+
+Website Security :small_orange_diamond:
+
 Search Engine Tools 👁️‍
 
 VPN & Private browsing 🕵️
@@ -96,6 +100,8 @@ Finding phishing pages:
 
 [Phishing Kit Hunter](https://github.com/t4d/PhishingKitHunter)
 
+[StinkyPhish by @olihough86](https://github.com/olihough86/stinkyphish)
+
 
 Dealing with phishing pages:
 
@@ -106,10 +112,6 @@ Dealing with phishing pages:
 [isitphishing](https://isitphishing.org/brand-alert)
 
 [IANA Root-zone Database](https://www.iana.org/domains/root/db)
-
-[Mx ToolBox](https://mxtoolbox.com/blacklists.aspx)
-
-[BPG Hurrican electric](https://bgp.he.net/)
 
 [Lumpysoft](https://lumpysoft.com/)
 
@@ -154,6 +156,12 @@ https://github.com/cybercdh/phishfinder
 [Exploit-DB](https://www.exploit-db.com)
 
 [DNS Dumpster](https://dnsdumpster.com)
+
+[Mx ToolBox](https://mxtoolbox.com/blacklists.aspx)
+
+[BPG Hurrican electric](https://bgp.he.net/)
+
+[Qualys SSL test](https://www.ssllabs.com/ssltest/)
 
 ```
 
