@@ -40,7 +40,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 Phishing Tools 🎣
 
-Data breaches :small_red_diamond:
+Data breaches :small_white_diamond:
 
 Website Security :small_orange_diamond:
 
