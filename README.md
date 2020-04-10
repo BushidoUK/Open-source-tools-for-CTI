@@ -80,17 +80,6 @@ Misc :small_blue_diamond:
 
 ```
 
-### Databreaches
-
-[Have I been pwned?](https://haveibeenpwned.com/)
-
-[Dehashed](https://www.dehashed.com/)
-
-[Data breach news](https://www.databreaches.net/)
-
-```
-
-```
 
 ### Website Security
 
