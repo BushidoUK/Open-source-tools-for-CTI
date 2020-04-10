@@ -52,13 +52,13 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Malware Analysis Tools ☣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Malware%20analysis.md)
 
-[Virtual Machines :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/VirtualMachine.md)
+[Virtual Machines 💻](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/VirtualMachine.md)
 
 [Secure Email Accounts 📧🔐](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Secure%20Email.md)
 
-[Chrome Extensions :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Chrome%20Extensions.md)
+[Chrome Extensions 🎛](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Chrome%20Extensions.md)
 
-[GitHub Projects :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Github%20Projects.md)
+[GitHub Projects 👨‍💻](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Github%20Projects.md)
 
 [Honeypots 🍯](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Honeypots.md)
 
