@@ -20,6 +20,12 @@ Phishing Kit Hunter - https://github.com/t4d/PhishingKitHunter
 
 StinkyPhish by @olihough86 - https://github.com/olihough86/stinkyphish
 
+Lumpysoft - https://lumpysoft.com/
+
+Checkphish.ai - https://checkphish.ai/
+
+PhishTank - https://www.phishtank.com/
+
 ```
 
 ```
@@ -33,12 +39,6 @@ DecentSecurity - https://decentsecurity.com/#/malware-web-and-phishing-investiga
 isitphishing - https://isitphishing.org/brand-alert
 
 IANA Root-zone Database - https://www.iana.org/domains/root/db
-
-Lumpysoft - https://lumpysoft.com/
-
-Checkphish.ai - https://checkphish.ai/
-
-PhishTank - https://www.phishtank.com/
 
 Browserling - https://www.browserling.com/
 
