@@ -94,8 +94,6 @@ Finding phishing pages:
 
 [DNSlytics](https://dnslytics.com/)
 
-[DNS Dumpster](https://dnsdumpster.com/)
-
 [Phishing Kit Hunter](https://github.com/t4d/PhishingKitHunter)
 
 
@@ -129,6 +127,8 @@ https://github.com/JoulioK/Phishing_Kits
 
 https://github.com/neonprimetime/PhishingKitTracker
 
+https://github.com/cybercdh/phishfinder
+
 ```
 
 ```
@@ -140,6 +140,20 @@ https://github.com/neonprimetime/PhishingKitTracker
 [Dehashed](https://www.dehashed.com/)
 
 [Data breach news](https://www.databreaches.net/)
+
+```
+
+```
+
+### Website Security
+
+[Wappalyzer](https://www.wappalyzer.com)
+
+[Builtwith](https://builtwith.com/)
+
+[Exploit-DB](https://www.exploit-db.com)
+
+[DNS Dumpster](https://dnsdumpster.com)
 
 ```
 
@@ -166,6 +180,12 @@ https://github.com/neonprimetime/PhishingKitTracker
 [Threat Connect](https://threatconnect.com/free/)
 
 [Threat Crowd - by OTX](https://www.threatcrowd.org/)
+
+[Earthcam](https://www.earthcam.com/)
+
+[Insecam](https://www.insecam.org/)
+
+[Wigle](https://wigle.net/)
 
 ```
 
@@ -204,6 +224,8 @@ https://github.com/neonprimetime/PhishingKitTracker
 
 [NMAP/Zenmap](https://nmap.org/zenmap/)
 
+[OpenVAS](https://www.openvas.org/)
+
 [Image EXIF Data](https://exifdata.com/)
 
 [Synapsint](https://www.synapsint.com/)
@@ -234,8 +256,6 @@ https://github.com/neonprimetime/PhishingKitTracker
 
 ### Malware Analysis Tools 🦠
 
-[OTX Alienvault](https://otx.alienvault.com/)
-
 [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 [App.Any.Run](https://app.any.run/)
@@ -244,19 +264,29 @@ https://github.com/neonprimetime/PhishingKitTracker
 
 [Hybrid Analysis](https://www.hybrid-analysis.com/)
 
-[BlueLiv](https://community.blueliv.com/#!/discover)
-
-[Virus Bay](https://beta.virusbay.io/)
-
 [IDA](https://www.hex-rays.com/products/ida/)
 
 [Wireshark](https://www.wireshark.org/download.html)
 
-```
+Malware sharing sites: 
+
+[OTX Alienvault](https://otx.alienvault.com/)
+
+[BlueLiv](https://community.blueliv.com/#!/discover)
+
+[URLhaus](https://urlhaus.abuse.ch/)
+
+[Malware Bazaar](https://bazaar.abuse.ch/)
+
+[MalShare](https://malshare.com/)
+
+[Virus Bay](https://beta.virusbay.io/)
 
 ```
 
-### Virtual Machines :small_blue_diamond:
+```
+
+### Virtual Machines & Operating Systems :small_blue_diamond:
 
 [Virtual Machines from Microsoft](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/)
 
@@ -275,6 +305,10 @@ https://github.com/neonprimetime/PhishingKitTracker
 [Security Onion](https://securityonion.net/)
 
 [Black Arch Linux](https://blackarch.org/downloads.html#ova-download)
+
+[TAILs Linux](https://tails.boum.org/)
+
+[CSI Linux](https://csilinux.com/)
 
 ```
 
@@ -353,10 +387,6 @@ https://github.com/neonprimetime/PhishingKitTracker
 ```
 
 ### Honeypots 🍯
-
-[Google Cloud](https://cloud.google.com/)
-
-[Amazon Web Services](https://aws.amazon.com/)
 
 [T-pot Honeypot](https://github.com/dtag-dev-sec/tpotce)
 
@@ -498,6 +528,8 @@ Twitter Tools:
 [Kaspersky Password checker](https://password.kaspersky.com/)
 
 [Why the f@ck was I breached?](https://whythefuckwasibreached.com/) 😂
+
+[CTF Training site](https://pwnable.kr/play.php)
 
 ```
 
