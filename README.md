@@ -40,9 +40,9 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 Phishing Tools 🎣
 
-Data breaches :small_white_diamond:
+Data breaches 🚦
 
-Website Security :small_orange_diamond:
+Website Security 🔐
 
 Search Engine Tools 👁️‍
 
@@ -50,7 +50,7 @@ VPN & Private browsing 🕵️
 
 OSINT Investigation Tools 🔎
 
-Malware Analysis Tools 🦠
+Malware Analysis Tools ☣
 
 Virtual Machines :small_blue_diamond:
 
