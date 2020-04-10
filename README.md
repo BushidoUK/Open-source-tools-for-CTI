@@ -50,7 +50,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [OSINT Investigation Tools 🔎](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/OSINT%20Investigation%20Tools.md)
 
-Malware Analysis Tools ☣
+[Malware Analysis Tools ☣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Malware%20analysis.md)
 
 Virtual Machines :small_blue_diamond:
 
@@ -75,38 +75,6 @@ Podcasts 🎙️
 Conferences 🎤
 
 Misc :small_blue_diamond:
-
-```
-
-```
-
-### Malware Analysis Tools 🦠
-
-[VirusTotal](https://www.virustotal.com/gui/home/upload)
-
-[App.Any.Run](https://app.any.run/)
-
-[Passive Total - RISK IQ](https://community.riskiq.com/registration)
-
-[Hybrid Analysis](https://www.hybrid-analysis.com/)
-
-[IDA](https://www.hex-rays.com/products/ida/)
-
-[Wireshark](https://www.wireshark.org/download.html)
-
-Malware sharing sites: 
-
-[OTX Alienvault](https://otx.alienvault.com/)
-
-[BlueLiv](https://community.blueliv.com/#!/discover)
-
-[URLhaus](https://urlhaus.abuse.ch/)
-
-[Malware Bazaar](https://bazaar.abuse.ch/)
-
-[MalShare](https://malshare.com/)
-
-[Virus Bay](https://beta.virusbay.io/)
 
 ```
 
