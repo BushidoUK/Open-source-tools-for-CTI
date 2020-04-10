@@ -16,8 +16,6 @@ crt.sh - https://crt.sh/
 
 DNSlytics - https://dnslytics.com/
 
-Phishing Kit Hunter - https://github.com/t4d/PhishingKitHunter
-
 StinkyPhish by @olihough86 - https://github.com/olihough86/stinkyphish
 
 Lumpysoft - https://lumpysoft.com/
@@ -55,6 +53,8 @@ https://github.com/JoulioK/Phishing_Kits
 https://github.com/neonprimetime/PhishingKitTracker
 
 https://github.com/cybercdh/phishfinder
+
+https://github.com/t4d/PhishingKitHunter
 
 ```
 
