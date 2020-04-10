@@ -2,7 +2,7 @@
 
 Welcome, this is a repository of opensource tools that I have found interesting and usefull over the years.
 
-Please feel free to check out my blog too: https://bushidotoken.blogspot.com/
+Please feel free to check out my blog too: https://bushidotoken.blogspot.com/ and follow me on Twitter: [@BushidoToken](https://twitter.com/BushidoToken)
 
 ## Getting Started
 
@@ -64,133 +64,19 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Collections 📑](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Collections.md)
 
-[Security News 🗺️]()
+[Security News 🗺️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/SecurityNews.md)
 
-[Computer Emergency Response Teams ⚔️]()
+[Computer Emergency Response Teams ⚔️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/CERTs.md)
 
-[Twitter Accounts to follow & Tools 🐦]()
+[InfoSec Twitter & Tools 🐦](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/InfoSecTwitter.md)
 
-[Podcasts 🎙️]()
+[Podcasts 🎙️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Podcasts.md)
 
-[Conferences 🎤]()
+[Conferences 🎤](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Conferences.md)
 
-[Misc :small_blue_diamond:]()
-
-```
-
-```
-
-### Security News 🗺️ 
-
-[The Cyber Wire daily breifing](https://thecyberwire.com/newsletters/daily-briefing)
-
-[NewsNow - Security News RSS](https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security)
-
-[DataBreaches.net](https://www.databreaches.net/news/)
-
-[ZDNET](https://www.zdnet.com/)
-
-[Bleeping computer](https://www.bleepingcomputer.com/)
-
-[Full Disclosure](https://seclists.org/fulldisclosure/)
-
-[Daily Cyber Digest - Trending Malware](https://www.silobreaker.com/tag/daily-cyber-digest/)
+[Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Misc.md)
 
 ```
 
 ```
-
-### Computer Emergency Response Teams ⚔️
-
-[US CISA](https://www.us-cert.gov/ncas/alerts)
-
-[Australia CERT](https://www.auscert.org.au/resources/security-bulletins/)
-
-[Canada CERT](https://cyber.gc.ca/en/alerts-advisories)
-
-[UK NCSC](https://www.ncsc.gov.uk/section/keep-up-to-date/threat-reports?q=&defaultTypes=report&sort=date%2Bdesc&start=0&rows=20)
-
-[Hong Kong CERT](https://www.hkcert.org/security-bulletin)
-
-```
-
-```
-
-### Twitter Accounts to follow & Tools 🐦
-Cyber Security researcher [@gcluely](https://twitter.com/gcluley)
-
-Cyber Security researcher [@KeavinBeaumont](https://twitter.com/GossiTheDog)
-
-Cyber Security reporter [@campuscodi](https://twitter.com/campuscodi)
-
-Ethical Hacker [@VK_Intel](https://twitter.com/VK_Intel)
-
-Malware analysts [@malwrhunterteam](https://twitter.com/malwrhunterteam)
-
-Bank threat intelligence [@Bank_Security](https://twitter.com/Bank_Security)
-
-Data breaches & leaks [@MayhemDayOne](https://twitter.com/MayhemDayOne)
-
-Data breaches & leaks [@olihough86](https://twitter.com/olihough86)
-
-Twitter Tools:
-
-[Tweetdeck](https://tweetdeck.twitter.com/)
-
-[Geo-Chip](http://www.geochirp.com/)
-
-[Tweeps-Map](http://tweepsmap.com/)
-
-[Tinfo-Leak](https://tinfoleak.com/)
-
-```
-
-```
-
-### Podcasts 🎙️
-
-[Darknet Diaries](https://darknetdiaries.com/)
-
-[Cyber Security Sauna](https://twitter.com/cybersauna?lang=en)
-
-[Malicious Life](https://malicious.life/)
-
-[The Cyber Wire](https://thecyberwire.com/podcasts)
-
-[Smashing Security](https://www.smashingsecurity.com/episodes)
-
-```
-
-```
-
-### Conferences 🎤
-
-[DefCON](https://www.defcon.org/)
-
-[Black Hat](https://www.blackhat.com/)
-
-[Secure South West](https://www.securesouthwest.com/?page=home)
-
-```
-
-```
-
-### Misc :small_blue_diamond:
-
-[PowerShell scripts](https://stackify.com/powershell-commands-every-developer-should-know/)
-
-[Canary Tokens](http://canarytokens.org/generate#)
-
-[Tiny URL](https://tinyurl.com/)
-
-[Kaspersky Password checker](https://password.kaspersky.com/)
-
-[Why the f@ck was I breached?](https://whythefuckwasibreached.com/) 😂
-
-[CTF Training site](https://pwnable.kr/play.php)
-
-```
-
-```
-[Back to the top ⬆️](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
 
