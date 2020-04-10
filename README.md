@@ -44,7 +44,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Website Security 🔐](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Website%20Security.md)
 
-Search Engine Tools 👁️‍
+[Search Engine Tools 👁️‍](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Search%20Engine%20Tools.md)
 
 VPN & Private browsing 🕵️
 
@@ -75,38 +75,6 @@ Podcasts 🎙️
 Conferences 🎤
 
 Misc :small_blue_diamond:
-
-```
-
-```
-
-### Search Engine Tools 👁️‍ 
-
-[Shodan](https://www.shodan.io/)
-
-[Censys.io](https://censys.io/)
-
-[Abuse IP Database](https://www.abuseipdb.com/)
-
-[Robtex Domain/IP Lookup](http://itools.com/tool/robtex-domain-ip-address-lookup)
-
-[NetCraft](http://itools.com/tool/robtex-domain-ip-address-lookup)
-
-[GitHub Code Search](https://github.com/search)
-
-[Yandex Image Translate](https://translate.yandex.com/ocr)
-
-[Binary Edge](https://www.binaryedge.io/)
-
-[Threat Connect](https://threatconnect.com/free/)
-
-[Threat Crowd - by OTX](https://www.threatcrowd.org/)
-
-[Earthcam](https://www.earthcam.com/)
-
-[Insecam](https://www.insecam.org/)
-
-[Wigle](https://wigle.net/)
 
 ```
 
