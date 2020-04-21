@@ -12,6 +12,10 @@ Why the f@ck was I breached? - https://whythefuckwasibreached.com/) 😂
 
 CTF Training site - https://pwnable.kr/play.php
 
+Decoding: 
+ROT13 - https://rot13.com/
+BASE64 - https://www.base64decode.org/
+
 ```
 
 ```
