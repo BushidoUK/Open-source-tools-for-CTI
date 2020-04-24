@@ -29,6 +29,10 @@ Google Alerts - https://www.google.co.uk/alerts
 
 Warble Alerts - https://warble.co/
 
+VisualPing alerts - https://visualping.io/
+
+Webpage Archiver - http://archive.vn/
+
 Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/
 
 OSINT Team - https://osint.team/home
