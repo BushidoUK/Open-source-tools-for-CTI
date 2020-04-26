@@ -22,6 +22,8 @@ TAILs Linux - https://tails.boum.org/
 
 CSI Linux - https://csilinux.com/
 
+https://leanpub.com/avatar
+
 ```
 
 ```
