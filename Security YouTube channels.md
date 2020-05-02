@@ -1,4 +1,4 @@
-### Security YouTube Channels :small_red_diamond:
+### Security YouTube Channels 🟥
 
 Troy Hunt - https://www.youtube.com/user/troyhuntdotcom
 
