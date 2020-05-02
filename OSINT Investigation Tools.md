@@ -33,6 +33,8 @@ VisualPing alerts - https://visualping.io/
 
 Webpage Archiver - http://archive.vn/
 
+Liveuamap (covers security and conflict reports) - https://liveuamap.com/# 
+
 Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/
 
 OSINT Team - https://osint.team/home
