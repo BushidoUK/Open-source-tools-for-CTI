@@ -74,6 +74,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Conferences 🎤](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Conferences.md)
 
+[Security YouTube Channels 🟥](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Security%20YouTube%20channels.md)
+
 [Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Misc.md)
 
 ```
