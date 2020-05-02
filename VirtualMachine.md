@@ -24,7 +24,7 @@ CSI Linux - https://csilinux.com/
 
 ProxMox - https://proxmox.com/en/
 
-https://leanpub.com/avatar
+How to setup a Virtual Lab - https://leanpub.com/avatar
 
 ```
 
