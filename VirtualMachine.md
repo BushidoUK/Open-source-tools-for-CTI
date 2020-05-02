@@ -1,4 +1,4 @@
-### Virtual Machines & Operating Systems :small_blue_diamond:
+### Opensource Virtual Machines & Operating Systems & Security Tools :small_blue_diamond:
 
 Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
@@ -23,6 +23,16 @@ TAILs Linux - https://tails.boum.org/
 CSI Linux - https://csilinux.com/
 
 ProxMox - https://proxmox.com/en/
+
+pfSense (free FireWall) - https://www.pfsense.org/
+
+ClamAV (free Anti-Virus) - https://www.clamav.net/
+
+TCPdump (free packet analyser) - https://www.tcpdump.org/
+
+Snort (free intrusion detection system) - https://www.snort.org/
+
+Security Onion (free log management and monitoring) - https://securityonion.net/
 
 How to setup a Virtual Lab - https://leanpub.com/avatar
 
