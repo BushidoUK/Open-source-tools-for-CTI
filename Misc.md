@@ -18,6 +18,8 @@ Free Diagram Tool - https://app.diagrams.net/ / https://draw.io
 
 Learn to Code for Free - https://www.codecademy.com/
 
+Visual Studio Code - https://code.visualstudio.com/
+
 ```
 
 ```
