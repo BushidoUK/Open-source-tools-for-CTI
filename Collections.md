@@ -1,6 +1,8 @@
 ### Collections 📑 
 
-CXSECURITY - Exploits & Bug tracking](https://cxsecurity.com/
+CXSECURITY - Exploits & Bug tracking - https://cxsecurity.com/
+
+Red Team Penetration Testing Guide - https://overthewire.org/wargames/bandit/
 
 SecLists - https://github.com/danielmiessler/SecLists
 
