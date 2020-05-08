@@ -14,6 +14,8 @@ Full Disclosure - https://seclists.org/fulldisclosure/
 
 Daily Cyber Digest - Trending Malware](https://www.silobreaker.com/tag/daily-cyber-digest/
 
+Android Malware Telegram Channel - https://t.me/s/androidMalware
+
 ```
 
 ```
