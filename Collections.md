@@ -2,7 +2,7 @@
 
 CXSECURITY - Exploits & Bug tracking - https://cxsecurity.com/
 
-Red Team Penetration Testing Guide - https://overthewire.org/wargames/bandit/
+Red Team Penetration Testing Guide - https://github.com/tjnull/TJ-JPT
 
 SecLists - https://github.com/danielmiessler/SecLists
 
