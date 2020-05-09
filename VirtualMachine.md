@@ -27,6 +27,8 @@ CSI Linux - https://csilinux.com/
 ```
 Free Security software
 
+Termux Android Terminal Emulator - https://termux.com/
+
 ProxMox - https://proxmox.com/en/
 
 pfSense (free FireWall) - https://www.pfsense.org/
