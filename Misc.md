@@ -24,6 +24,8 @@ NSA Document Generator - http://ternus.github.io/nsaproductgenerator/
 
 Bandit (Linux Practice) - https://overthewire.org/wargames/bandit/
 
+OSINT CTF - https://ctf.cybersoc.wales/
+
 ```
 
 ```
