@@ -52,6 +52,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Malware Analysis Tools ☣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Malware%20analysis.md)
 
+[CTI Feeds 🎱](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/CTI%20Feeds.md)
+
 [Virtual Machines 💻](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/VirtualMachine.md)
 
 [Secure Email Accounts 📧🔐](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Secure%20Email.md)
