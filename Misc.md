@@ -22,9 +22,17 @@ Visual Studio Code - https://code.visualstudio.com/
 
 NSA Document Generator - http://ternus.github.io/nsaproductgenerator/
 
+```
+
+```
+
+### Learning
+
 Bandit (Linux Practice) - https://overthewire.org/wargames/bandit/
 
 OSINT CTF - https://ctf.cybersoc.wales/
+
+OSINT CTF - https://twitter.com/Sector035/status/1211038518635614208?s=20
 
 ```
 
