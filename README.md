@@ -2,7 +2,7 @@
 
 Welcome, this is a repository of opensource tools that I have found interesting and usefull over the years.
 
-Please feel free to check out my blog too: https://bushidotoken.blogspot.com/ and follow me on Twitter: [@BushidoToken](https://twitter.com/BushidoToken)
+Please feel free to check out my blog too: https://bushidotoken.net and follow me on Twitter: [@BushidoToken](https://twitter.com/BushidoToken)
 
 ## Getting Started
 
