@@ -24,7 +24,7 @@ MacOS with Virtual Box/VMWare
 
 ## Contributing
 
-Please email me: willthomas@ctemplar.com if you would like to contribute to Opensource-tools
+Please email me: will@bushidotoken.net if you would like to contribute to Opensource-tools
 
 ## Authors
 
