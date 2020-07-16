@@ -10,6 +10,8 @@ Gordon - https://gordon.mhg.ovh/
 
 PulseDive - https://pulsedive.com/
 
+Whois search - https://whois.domaintools.com/
+
 VirusToal - https://www.virustotal.com/gui/home/search
 
 URLScan - https://urlscan.io/
