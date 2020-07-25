@@ -1,5 +1,7 @@
 ### Misc :small_blue_diamond:
 
+Windows Sysinternals - https://docs.microsoft.com/en-us/sysinternals/
+
 PowerShell scripts - https://stackify.com/powershell-commands-every-developer-should-know/
 
 Canary Tokens - http://canarytokens.org/generate#
