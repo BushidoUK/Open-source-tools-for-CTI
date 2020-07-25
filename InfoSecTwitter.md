@@ -30,6 +30,10 @@ Twitter Tools:
 
 [Tinfo-Leak](https://tinfoleak.com/)
 
+[Tweetmap](https://www.omnisci.com/demos/tweetmap)
+
+[Twint](https://github.com/twintproject/twint)
+
 ```
 
 ```
