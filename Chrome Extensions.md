@@ -18,6 +18,8 @@ Go Back in Time - https://chrome.google.com/webstore/detail/go-back-in-time/hgda
 
 Stratus Mitre ATT&CK TTPs - https://chrome.google.com/webstore/detail/stratus/jjpceekakjijeamhoeedjfgmhgbefcmp?utm_source=chrome-ntp-icon
 
+Link Redirect Trace - https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh
+
 ```
 
 ```
