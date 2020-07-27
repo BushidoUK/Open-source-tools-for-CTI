@@ -78,6 +78,8 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 
 [Security YouTube Channels 🟥](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Security%20YouTube%20channels.md)
 
+[Vulnerabilities](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Vulnerabilities.md)
+
 [Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Misc.md)
 
 ```
