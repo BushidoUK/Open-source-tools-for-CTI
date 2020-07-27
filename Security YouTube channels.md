@@ -14,6 +14,8 @@ SANS Institute - https://www.youtube.com/user/TheSANSInstitute
 
 Hak5 - https://www.youtube.com/user/Hak5Darren
 
+Malwaretech - https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
+
 
 ```
 
