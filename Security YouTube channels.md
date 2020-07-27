@@ -16,6 +16,7 @@ Hak5 - https://www.youtube.com/user/Hak5Darren
 
 Malwaretech - https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
 
+Pen Test Partners - https://www.youtube.com/user/PenTestPartnersLLP
 
 ```
 
