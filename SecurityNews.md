@@ -4,6 +4,8 @@ The Cyber Wire daily breifing - https://thecyberwire.com/newsletters/daily-brief
 
 FBI Internet Crime Complaint Center (IC3) Newsletter - https://delivery.fbi.gov/subscribe 
 
+BAE Systems Insights - https://www.baesystems.com/en/cybersecurity/insights
+
 NewsNow - Security News RSS - https://www.newsnow.co.uk/h/Industry+Sectors/Information+Technology/Security
 
 DataBreaches.net - https://www.databreaches.net/news/
