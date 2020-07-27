@@ -23,10 +23,6 @@ Image EXIF Data - https://exifdata.com/
 
 Synapsint - https://www.synapsint.com/
 
-Snap Map - https://map.snapchat.com/
-
-liveuamap - https://liveuamap.com/
-
 Reddit6 - https://reddit6.com/#/Stream
 
 Google Alerts - https://www.google.co.uk/alerts
@@ -36,8 +32,6 @@ Warble Alerts - https://warble.co/
 VisualPing alerts - https://visualping.io/
 
 Webpage Archiver - http://archive.vn/
-
-Liveuamap (covers security and conflict reports) - https://liveuamap.com/# 
 
 Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/
 
@@ -49,8 +43,6 @@ Intel Techniques from M. Bazzell - https://inteltechniques.com/JE/OSINT_Packet_2
 
 Privacy Checklist from M. Bazzell - https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf :closed_book:
 
-192.com - https://www.192.com/people/search/
-
 ```
 
 ```
@@ -61,6 +53,8 @@ https://archive.org/web/
 https://www.gov.uk/government/organisations/companies-house
 
 https://www.flightradar24.com/
+
+https://www.192.com/people/search/
 
 ```
 
@@ -75,6 +69,10 @@ https://earth.google.com/
 https://www.bing.com/maps/aerial
 
 https://www.openstreetmap.org/
+
+Snap Map - https://map.snapchat.com/
+
+Liveuamap - https://liveuamap.com/
 
 ```
 
