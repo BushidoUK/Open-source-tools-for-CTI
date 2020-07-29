@@ -18,6 +18,8 @@ Malwaretech - https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
 
 Pen Test Partners - https://www.youtube.com/user/PenTestPartnersLLP
 
+Mr Turvey - https://www.youtube.com/c/MrTurvey/videos
+
 ```
 
 ```
