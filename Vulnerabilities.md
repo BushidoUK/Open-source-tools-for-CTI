@@ -10,6 +10,10 @@ Receive Vulnerability Alerts - https://alerts.vulmon.com/
 
 CVE Details - https://www.cvedetails.com/index.php
 
+AusCERT Security Bulletins - https://www.auscert.org.au/resources/security-bulletins/
+
+Tencent Threat Notices - https://s.tencent.com/research/bsafe/
+
 ```
 
 ```
