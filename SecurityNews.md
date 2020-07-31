@@ -38,7 +38,14 @@ ZDNET - https://www.zdnet.com/
 
 Bleeping computer - https://www.bleepingcomputer.com/
 
+```
+
+```
+via App
+
 Android Malware Telegram Channel - https://t.me/s/androidMalware
+
+News Fusion - https://www.newsfusion.com/cyber-security
 
 ```
 
