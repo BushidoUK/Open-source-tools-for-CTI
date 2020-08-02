@@ -29,4 +29,28 @@ MISP (CIRCL) - https://www.circl.lu/services/misp-malware-information-sharing-pl
 
 ```
 
+Malware sharing sites:
+
+OTX Alienvault - https://otx.alienvault.com/
+
+Any.Run - https://any.run/malware-trends/
+
+Koodous APKs - https://koodous.com/
+
+BlueLiv - https://community.blueliv.com/#!/discover
+
+URLhaus - https://urlhaus.abuse.ch/
+
+Malware Bazaar - https://bazaar.abuse.ch/
+
+MalShare - https://malshare.com/
+
+Virus Bay - https://beta.virusbay.io/
+
+InQuest - https://labs.inquest.net/
+
+```
+
+```
+
 [Home](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md)
