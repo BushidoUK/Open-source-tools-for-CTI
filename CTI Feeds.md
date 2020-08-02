@@ -31,6 +31,8 @@ MISP (CIRCL) - https://www.circl.lu/services/misp-malware-information-sharing-pl
 
 Malware sharing sites:
 
+VirusTotal - https://www.virustotal.com/gui/home/search
+
 OTX Alienvault - https://otx.alienvault.com/
 
 Any.Run - https://any.run/malware-trends/
