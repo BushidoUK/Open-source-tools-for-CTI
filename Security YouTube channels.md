@@ -20,6 +20,8 @@ Pen Test Partners - https://www.youtube.com/user/PenTestPartnersLLP
 
 Mr Turvey - https://www.youtube.com/c/MrTurvey/videos
 
+Trident Talks - https://www.youtube.com/channel/UCz3aSUvKrQyyaN70AcRl2Nw/videos
+
 ```
 
 ```
