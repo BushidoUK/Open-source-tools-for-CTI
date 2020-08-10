@@ -1,3 +1,5 @@
+### Vulnerabilities
+
 Full Disclosure - https://seclists.org/fulldisclosure/
 
 National Vulnerability Database - https://nvd.nist.gov/
@@ -13,6 +15,8 @@ CVE Details - https://www.cvedetails.com/index.php
 AusCERT Security Bulletins - https://www.auscert.org.au/resources/security-bulletins/
 
 Tencent Threat Notices - https://s.tencent.com/research/bsafe/
+
+CXSECURITY - Exploits & Bug tracking - https://cxsecurity.com/
 
 ```
 
