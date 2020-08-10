@@ -8,6 +8,8 @@ Flare VM by FireEye - https://www.fireeye.com/blog/threat-research/2017/07/flare
 
 Commando VM by FireEye - https://www.fireeye.com/blog/threat-research/2019/03/commando-vm-windows-offensive-distribution.html
 
+TraceLabs OSINT VM - https://www.tracelabs.org/trace-labs-osint-vm/
+
 Buscador VM - https://inteltechniques.com/buscador/
 
 Parrot OS - https://parrotlinux.org/download.php
