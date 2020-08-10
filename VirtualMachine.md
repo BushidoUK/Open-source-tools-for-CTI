@@ -24,10 +24,16 @@ TAILs Linux - https://tails.boum.org/
 
 CSI Linux - https://csilinux.com/
 
+SIFT Workstation (Forensics) - https://digital-forensics.sans.org/community/downloads
+
 ```
 
 ```
 Free Security software
+
+Autopsy Sleuth Kit (Forensics) - https://www.sleuthkit.org/autopsy/
+
+Access Data FTK Imager (Forensics) - https://accessdata.com/product-download/ftk-imager-version-4-3-0
 
 Termux Android Terminal Emulator - https://termux.com/
 
