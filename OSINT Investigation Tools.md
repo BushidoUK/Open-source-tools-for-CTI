@@ -8,6 +8,8 @@ OSINT Framework - https://osintframework.com/
 
 OSINT Yoga - https://yoga.osint.ninja/
 
+Darknet - https://iaca-darkweb-tools.com/
+
 FOCA - https://github.com/ElevenPaths/FOCA
 Required - [MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
 
