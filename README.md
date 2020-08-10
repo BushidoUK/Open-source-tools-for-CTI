@@ -83,13 +83,17 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 [Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Misc.md)
 
 ```
-Cyber Threat Intelligence quote: 
+
 ```
+
+Cyber Threat Intelligence quote: 
 
 "If you see dark clouds outside, there's a threat of rain. If you decide to go out without an umbrella, that's a vulnerability. Combine the two and you have the risk of getting soaked. ☔" - Anonymous
 
 ```
-### Recommended Reading List:
+
 ```
+
+### Recommended Reading List:
 
 ![reading list](https://1.bp.blogspot.com/-AbaBLacY9SM/XzGdTjyvGaI/AAAAAAAAD6Y/p_PfjY0y3WMNSHRa_YqJyWN-sE9GoC7xQCLcBGAsYHQ/s640/EfEnu9RWkAI85Ei.jpg)
