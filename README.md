@@ -33,7 +33,7 @@ WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
 ## Acknowledgments
 
 ```
-@olihough86 @JCyberSec_ @TheCyberViking @Rag_Sec @AlanTheBlank @BufferOfStyx @CybersecStu @ScottMcGready
+@olihough86 @JCyberSec_ @TheCyberViking @Rag_Sec @AlanTheBlank @BufferOfStyx @CybersecStu @ScottMcGready @TJ_Null @ZehrFish
 ```
 
 ### Index ℹ️
