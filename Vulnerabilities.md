@@ -1,4 +1,4 @@
-### Vulnerabilities
+### Vulnerabilities, bugs, & exploits
 
 Full Disclosure - https://seclists.org/fulldisclosure/
 
@@ -17,6 +17,8 @@ AusCERT Security Bulletins - https://www.auscert.org.au/resources/security-bulle
 Tencent Threat Notices - https://s.tencent.com/research/bsafe/
 
 CXSECURITY - Exploits & Bug tracking - https://cxsecurity.com/
+
+Exploit Database - https://www.exploit-db.com/
 
 ```
 
