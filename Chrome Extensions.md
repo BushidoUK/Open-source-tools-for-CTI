@@ -20,6 +20,10 @@ Stratus Mitre ATT&CK TTPs - https://chrome.google.com/webstore/detail/stratus/jj
 
 Link Redirect Trace - https://chrome.google.com/webstore/detail/link-redirect-trace/nnpljppamoaalgkieeciijbcccohlpoh
 
+Pulse Dive - https://chrome.google.com/webstore/detail/pulsedive-threat-intellig/gdbemlfgncdmmljmkkcemfedbbfgghcp?hl=en
+
+Browserling - https://chrome.google.com/webstore/detail/browserling-cross-browser/chfdigebbepdmeelcfiefkklfldmmgld?hl=en
+
 ```
 
 ```
