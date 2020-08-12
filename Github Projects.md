@@ -30,6 +30,8 @@ Sn1per - https://github.com/1N3/Sn1per
 
 Final Recon - https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-reconnaissance/
 
+Holehe - https://github.com/megadose/holehe
+
 ```
 
 ```
