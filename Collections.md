@@ -16,6 +16,8 @@ APT Activity - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collec
 
 OSINT Tools - https://github.com/jivoi/awesome-osint
 
+CTI & OSINT Online Resources from a Sky Analyst - https://docs.google.com/spreadsheets/d/1klugQqw6POlBtuzon8S0b18-gpsDwX-5OYRrB7TyNEw/htmlview
+
 TraceLabs OSINT Tools List - https://www.tracelabs.org/resources/tools/
 
 MITRE ATT&CK Framework - https://attack.mitre.org/
