@@ -28,7 +28,7 @@ Please email me: will@bushidotoken.net if you would like to contribute to Openso
 
 ## Authors
 
-@BushidoToken
+Will a/k/a BushidoToken
 
 ## Acknowledgments
 
