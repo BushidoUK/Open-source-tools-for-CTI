@@ -28,7 +28,7 @@ Please email me: will@bushidotoken.net if you would like to contribute to Openso
 
 ## Authors
 
-WilliamThomas-Sec [Link to Github profile](https://github.com/WilliamThomas-sec)
+@BushidoToken
 
 ## Acknowledgments
 
