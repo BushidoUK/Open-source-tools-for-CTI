@@ -22,6 +22,12 @@ Mr Turvey - https://www.youtube.com/c/MrTurvey/videos
 
 Trident Talks - https://www.youtube.com/channel/UCz3aSUvKrQyyaN70AcRl2Nw/videos
 
+Red Team Village - https://www.youtube.com/channel/UC8nq3PX9coMiqgKH6fw-VCQ
+
+Blue Team Village - https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ
+
+ICS Village - https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw
+
 ```
 
 ```
