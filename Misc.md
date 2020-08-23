@@ -41,4 +41,17 @@ OSINT CTF - https://twitter.com/Sector035/status/1211038518635614208?s=20
 ```
 
 ```
+
+### Presentations
+
+Microsoft Office PowerPoint
+
+Prezi - https://prezi.com/
+
+Issuu - https://issuu.com/
+
+```
+
+```
+
 [Home](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
