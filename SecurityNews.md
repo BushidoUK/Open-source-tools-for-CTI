@@ -38,6 +38,8 @@ ZDNET - https://www.zdnet.com/
 
 Bleeping computer - https://www.bleepingcomputer.com/
 
+HackerPom - https://www.hackerpom.com/
+
 ```
 
 ```
