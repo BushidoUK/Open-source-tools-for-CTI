@@ -28,6 +28,10 @@ Blue Team Village - https://www.youtube.com/channel/UCk4dddMFiso_hgt0ViSPNpQ
 
 ICS Village - https://www.youtube.com/channel/UCI_GT2-OMrsqqglv0JijHhw
 
+GrujaRS Ransomware - https://www.youtube.com/c/CyberSecurityGrujaRS/videos
+
+Danooct1 Malware analysis - https://www.youtube.com/user/danooct1
+
 ```
 
 ```
