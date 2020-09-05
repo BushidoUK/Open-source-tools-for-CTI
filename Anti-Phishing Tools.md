@@ -58,6 +58,8 @@ https://github.com/t4d/PhishingKitHunter
 
 https://github.com/marcoramilli/PhishingKitTracker
 
+https://phishunt.io/
+
 ```
 
 ```
