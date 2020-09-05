@@ -1,5 +1,7 @@
 ### GitHub Projects :small_blue_diamond:
 
+VECTR (ATT&CK framework) - https://github.com/securityriskadvisors/VECTR
+
 OSweep - OSINT Dashboard & Triage VM - https://github.com/ecstatic-nobel/OSweep
 
 Sherlock - https://github.com/sherlock-project/sherlock
