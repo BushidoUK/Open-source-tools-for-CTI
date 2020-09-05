@@ -43,6 +43,8 @@ OSINT Team - https://osint.team/home
 
 OSINT Tool Blog - https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada
 
+OSINT techniques - https://github.com/sinwindie/OSINT
+
 Intel Techniques from M. Bazzell - https://inteltechniques.com/JE/OSINT_Packet_2019.pdf :closed_book:
 
 Privacy Checklist from M. Bazzell - https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf :closed_book:
