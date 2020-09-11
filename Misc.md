@@ -6,6 +6,8 @@ PowerShell scripts - https://stackify.com/powershell-commands-every-developer-sh
 
 Canary Tokens - http://canarytokens.org/generate#
 
+HoneyDoc - https://github.com/jqreator/honeydoc
+
 Tiny URL - https://tinyurl.com/
 
 Kaspersky Password checker - https://password.kaspersky.com/)
