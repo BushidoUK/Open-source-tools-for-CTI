@@ -10,9 +10,9 @@ HoneyDoc - https://github.com/jqreator/honeydoc
 
 Tiny URL - https://tinyurl.com/
 
-Kaspersky Password checker - https://password.kaspersky.com/)
+Kaspersky Password checker - https://password.kaspersky.com/
 
-Why the f@ck was I breached? - https://whythefuckwasibreached.com/) 😂
+Why the f@ck was I breached? - https://whythefuckwasibreached.com/ 😂
 
 CTF Training site - https://pwnable.kr/play.php
 
