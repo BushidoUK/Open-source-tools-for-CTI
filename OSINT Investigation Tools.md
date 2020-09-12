@@ -49,6 +49,8 @@ Intel Techniques from M. Bazzell - https://inteltechniques.com/JE/OSINT_Packet_2
 
 Privacy Checklist from M. Bazzell - https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf :closed_book:
 
+OSINT collection https://start.me/p/DPYPMz/the-ultimate-osint-collection :closed_book:
+
 ```
 
 ```
