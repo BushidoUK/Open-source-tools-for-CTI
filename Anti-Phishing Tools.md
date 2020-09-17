@@ -24,7 +24,7 @@ Checkphish.ai - https://checkphish.ai/
 
 PhishTank - https://www.phishtank.com/
 
-If you're confused Ask one of these guys! -> https://phishunt.io/community/
+If you're confused, ask one of these guys! -> https://phishunt.io/community/
 
 ```
 
