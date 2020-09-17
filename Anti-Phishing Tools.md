@@ -24,6 +24,8 @@ Checkphish.ai - https://checkphish.ai/
 
 PhishTank - https://www.phishtank.com/
 
+If you're confused Ask one of these guys! -> https://phishunt.io/community/
+
 ```
 
 ```
@@ -57,6 +59,8 @@ https://github.com/cybercdh/phishfinder
 https://github.com/t4d/PhishingKitHunter
 
 https://github.com/marcoramilli/PhishingKitTracker
+
+https://github.com/cybercdh/kitphishr
 
 https://phishunt.io/
 
