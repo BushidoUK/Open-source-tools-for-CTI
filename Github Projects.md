@@ -38,7 +38,7 @@ Git Hound - https://github.com/tillson/git-hound
 
 SubDomainizer - https://github.com/nsonaniya2010/SubDomainizer
 
-GAU - https://github.com/lc/gau
+Get All Urls - https://github.com/lc/gau
 
 
 ```
