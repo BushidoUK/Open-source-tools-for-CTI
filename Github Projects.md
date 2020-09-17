@@ -34,6 +34,13 @@ Final Recon - https://hakin9.org/final-recon-osint-tool-for-all-in-one-web-recon
 
 Holehe - https://github.com/megadose/holehe
 
+Git Hound - https://github.com/tillson/git-hound
+
+SubDomainizer - https://github.com/nsonaniya2010/SubDomainizer
+
+GAU - https://github.com/lc/gau
+
+
 ```
 
 ```
