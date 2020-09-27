@@ -30,6 +30,8 @@ Text Magic - https://www.textmagic.com/free-tools/
 
 Code presentation - https://carbon.now.sh/
 
+RBMK-1000 ICS Simulator - https://www.youtube.com/watch?v=XLmFjCTa-FU
+
 ```
 
 ```
