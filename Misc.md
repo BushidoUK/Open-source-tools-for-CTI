@@ -32,6 +32,10 @@ Code presentation - https://carbon.now.sh/
 
 RBMK-1000 ICS Simulator - https://www.youtube.com/watch?v=XLmFjCTa-FU
 
+Zotero - https://www.zotero.org/
+
+SecureDrop - https://securedrop.org/
+
 ```
 
 ```
