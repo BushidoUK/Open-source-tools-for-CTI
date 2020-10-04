@@ -86,6 +86,10 @@ Snap Map - https://map.snapchat.com/
 
 Liveuamap - https://liveuamap.com/
 
+Flight Radar - https://www.flightradar24.com/
+
+Freedar - https://radar.freedar.uk/VirtualRadar/desktop.html# (Menu -> Filter -> Enable Filters && Menu -> Receiver -> World Receiver)
+
 ```
 
 ```
