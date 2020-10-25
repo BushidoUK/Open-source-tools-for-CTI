@@ -54,7 +54,7 @@ OSINT collection https://start.me/p/DPYPMz/the-ultimate-osint-collection :closed
 ```
 
 ```
-###Generic OSINT
+### Generic OSINT
 
 https://archive.org/web/
 
@@ -70,7 +70,7 @@ https://emailrep.io/
 
 ```
 
-###Geo-OSINT
+### Geo-OSINT
 
 Google Maps - https://www.google.com/maps/
 
