@@ -60,8 +60,6 @@ https://archive.org/web/
 
 https://www.gov.uk/government/organisations/companies-house
 
-https://www.flightradar24.com/
-
 https://www.192.com/people/search/
 
 https://rocketreach.co/
