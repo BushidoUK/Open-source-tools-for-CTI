@@ -94,6 +94,10 @@ Marine Traffic - https://www.marinetraffic.com/
 
 Radio.Garden - http://radio.garden/
 
+MeteoBlue - https://www.meteoblue.com/en/weather/webcams/
+
+Windy Live Weather - https://www.windy.com/
+
 ```
 
 ```
