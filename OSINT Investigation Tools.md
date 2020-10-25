@@ -88,6 +88,8 @@ Flight Radar - https://www.flightradar24.com/
 
 Freedar - https://radar.freedar.uk/VirtualRadar/desktop.html# (Menu -> Filter -> Enable Filters && Menu -> Receiver -> World Receiver)
 
+ADSB Exchange - https://globe.adsbexchange.com/
+
 Marine Traffic - https://www.marinetraffic.com/
 
 Radio.Garden - http://radio.garden/
