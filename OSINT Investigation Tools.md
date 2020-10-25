@@ -74,13 +74,13 @@ https://emailrep.io/
 
 Geo-OSINT
 
-https://www.google.com/maps/
+Google Maps - https://www.google.com/maps/
 
-https://earth.google.com/
+Google Earth - https://earth.google.com/
 
-https://www.bing.com/maps/aerial
+Bing Aerial Maps - https://www.bing.com/maps/aerial
 
-https://www.openstreetmap.org/
+Open street - https://www.openstreetmap.org/
 
 Snap Map - https://map.snapchat.com/
 
@@ -89,6 +89,10 @@ Liveuamap - https://liveuamap.com/
 Flight Radar - https://www.flightradar24.com/
 
 Freedar - https://radar.freedar.uk/VirtualRadar/desktop.html# (Menu -> Filter -> Enable Filters && Menu -> Receiver -> World Receiver)
+
+Marine Traffic - https://www.marinetraffic.com/
+
+Radio.Garden - http://radio.garden/
 
 ```
 
