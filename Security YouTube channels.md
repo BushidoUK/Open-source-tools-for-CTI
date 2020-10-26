@@ -34,6 +34,10 @@ GrujaRS Ransomware - https://www.youtube.com/c/CyberSecurityGrujaRS/videos
 
 Danooct1 Malware analysis - https://www.youtube.com/user/danooct1
 
+Michael Gillespie - https://www.youtube.com/user/Demonslay335/videos
+
+MalwareAnalysisForHedgehogs - https://www.youtube.com/c/MalwareAnalysisForHedgehogs/videos
+
 ```
 
 ```
