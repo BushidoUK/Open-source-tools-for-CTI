@@ -82,7 +82,7 @@ Will a/k/a BushidoToken
 
 [Misc :small_blue_diamond:](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Misc.md)
 
-[OPSEC essentials 🔒]()
+[OPSEC essentials 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/OPSEC%20essentials.md)
 
 ```
 
