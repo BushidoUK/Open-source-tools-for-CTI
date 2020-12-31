@@ -1,4 +1,4 @@
-### OPSEC tools
+### OPSEC essentials
 
 MFA applications - https://www.microsoft.com/en-us/account/authenticator
 
