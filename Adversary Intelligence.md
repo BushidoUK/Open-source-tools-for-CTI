@@ -8,6 +8,8 @@ Mitre Group DB - https://attack.mitre.org/groups/
 
 Are you an APT target? - https://lab52.io/
 
+Dell SecureWorks Threat Profiles - https://www.secureworks.com/research/threat-profiles
+
 ```
 
 ```
