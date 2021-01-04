@@ -52,6 +52,8 @@ Will a/k/a BushidoToken
 
 [Malware Analysis Tools ☣](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/Malware%20analysis.md)
 
+[Adversary Intelligence 🌐]()
+
 [CTI Feeds 🎱](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/CTI%20Feeds.md)
 
 [Virtual Machines 💻](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/VirtualMachine.md)
