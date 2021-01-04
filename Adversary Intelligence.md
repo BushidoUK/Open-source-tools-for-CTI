@@ -12,6 +12,8 @@ Dell SecureWorks Threat Profiles - https://www.secureworks.com/research/threat-p
 
 Mapping APT attacks - https://github.com/BushidoUK/Exploring-APT-campaigns
 
+Adversary and Malware DB - https://malpedia.caad.fkie.fraunhofer.de/
+
 ```
 
 ```
