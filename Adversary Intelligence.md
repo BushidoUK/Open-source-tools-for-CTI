@@ -14,6 +14,16 @@ Mapping APT attacks - https://github.com/BushidoUK/Exploring-APT-campaigns
 
 Adversary and Malware DB - https://malpedia.caad.fkie.fraunhofer.de/
 
+Kaspersky APT list - https://apt.securelist.com/
+
+Dragos threat groups - https://www.dragos.com/threat-activity-groups/
+
+Cyber Operations Tracker - https://www.cfr.org/cyber-operations/
+
+Threat Actor Map - https://aptmap.netlify.app/
+
+APT WORLD MAP - https://andreacristaldi.github.io/APTmap/
+
 ```
 
 ```
