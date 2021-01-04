@@ -16,7 +16,19 @@ Are you an APT target? - https://lab52.io/
 
 https://twitter.com/ShadowChasing1
 
+https://twitter.com/Arkbird_SOLG
 
+https://twitter.com/cyberwar_15
+
+https://twitter.com/RedDrip7
+
+https://twitter.com/AnonySecAgency
+
+https://twitter.com/cyber__sloth
+
+https://twitter.com/blackorbird
+
+https://twitter.com/Rmy_Reserve
 
 ```
 
