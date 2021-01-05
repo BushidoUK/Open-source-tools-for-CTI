@@ -24,6 +24,20 @@ Threat Actor Map - https://aptmap.netlify.app/
 
 APT WORLD MAP - https://andreacristaldi.github.io/APTmap/
 
+APT Groups and Operations - https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml
+
+APT campaigns - https://docs.google.com/spreadsheets/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/edit#gid=1864660085
+
+APT Notes - https://github.com/kbandla/APTnotes
+
+Russian APT ecosystem - https://apt-ecosystem.com/russia/map/
+
+ThaiCERT APT encyclopedia - https://www.thaicert.or.th/downloads/files/A_Threat_Actor_Encyclopedia.pdf
+
+ThaiCERT encyclopedia version 2.0 - https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf
+
+National Security Archive - https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
+
 ```
 
 ```
