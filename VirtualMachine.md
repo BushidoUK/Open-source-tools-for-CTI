@@ -53,6 +53,8 @@ Security Onion (free log management and monitoring) - https://securityonion.net/
 
 How to setup a Virtual Lab - https://leanpub.com/avatar
 
+Setting up a Malware RE lab - https://labs.sentinelone.com/building-a-custom-malware-analysis-lab-environment/
+
 ```
 
 ```
