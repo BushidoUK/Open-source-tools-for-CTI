@@ -86,7 +86,7 @@ Will a/k/a BushidoToken
 
 [OPSEC essentials 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/OPSEC%20essentials.md)
 
-[Darknet 🕶]()
+[Darknet 🕶](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Darknet.md)
 
 ```
 
