@@ -22,6 +22,8 @@ Facebook social network - https://facebookcorewwwi.onion
 
 The New York Times news paper - https://nytimes3xbfgragh.onion
 
+Tor crawler - https://github.com/MikeMeliz/TorCrawl.py
+
 ```
 
 ```
