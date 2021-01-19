@@ -1,7 +1,5 @@
 ### Opensource Virtual Machines & Operating Systems & Security Tools :small_blue_diamond:
 
-Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
-
 Kali Linux - https://www.kali.org/downloads/
 
 Flare VM by FireEye - https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html
@@ -10,13 +8,7 @@ Commando VM by FireEye - https://www.fireeye.com/blog/threat-research/2019/03/co
 
 TraceLabs OSINT VM - https://www.tracelabs.org/trace-labs-osint-vm/
 
-Buscador VM - https://inteltechniques.com/buscador/
-
 Parrot OS - https://parrotlinux.org/download.php
-
-Virtual Box - https://www.virtualbox.org/
-
-Security Onion - https://securityonion.net/
 
 Black Arch Linux - https://blackarch.org/downloads.html#ova-download
 
@@ -24,14 +16,22 @@ TAILs Linux - https://tails.boum.org/
 
 CSI Linux - https://csilinux.com/
 
-SIFT Workstation (Forensics) - https://digital-forensics.sans.org/community/downloads
+SIFT Workstation - https://digital-forensics.sans.org/community/downloads
 
 REMnux - https://remnux.org/
+
+Buscador VM - https://inteltechniques.com/buscador/
+
+Virtual Box - https://www.virtualbox.org/
+
+Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
 ```
 
 ```
 Free Security software
+
+Security Onion - https://securityonion.net/
 
 Autopsy Sleuth Kit (Forensics) - https://www.sleuthkit.org/autopsy/
 
