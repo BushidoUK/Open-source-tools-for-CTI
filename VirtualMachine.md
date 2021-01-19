@@ -31,8 +31,6 @@ Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsof
 ```
 Free Security software
 
-Security Onion - https://securityonion.net/
-
 Autopsy Sleuth Kit (Forensics) - https://www.sleuthkit.org/autopsy/
 
 Access Data FTK Imager (Forensics) - https://accessdata.com/product-download/ftk-imager-version-4-3-0
