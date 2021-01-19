@@ -20,7 +20,7 @@ Twitter #Ransomware tags - https://twitter.com/search?q=%23ransomware&src=typed_
 
 APK Mobile Ransomware - https://koodous.com/apks?search=tag:ransomware
 
-Ransomware Overview Spreadsheet - https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/pubhtml#
+Ransomware Overview Spreadsheet - https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/view
 
 
 ```
