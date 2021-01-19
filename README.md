@@ -54,7 +54,7 @@ Will a/k/a BushidoToken
 
 [Adversary Intelligence 🌐](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Adversary%20Intelligence.md)
 
-[Ransomware Intelligence 🔒]()
+[Ransomware Intelligence 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/RansomwareIntel.md)
 
 [CTI Feeds 🎱](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/CTI%20Feeds.md)
 
