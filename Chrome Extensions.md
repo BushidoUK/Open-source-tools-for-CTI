@@ -12,7 +12,7 @@ Bulk URL Opener - https://chrome.google.com/webstore/detail/bulk-url-opener-exte
 
 uBlock Origin - https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?utm_source=chrome-ntp-icon
 
-Search by Image - https://chrome.google.com/webstore/detail/search-by-image-by-google/dajedkncpodkggklbegccjpmnglmnflm?utm_source=chrome-ntp-icon
+Search by Image - https://chrome.google.com/webstore/detail/search-by-image/cnojnbdhbhnkbcieeekonklommdnndci
 
 Go Back in Time - https://chrome.google.com/webstore/detail/go-back-in-time/hgdahcpipmgehmaaankiglanlgljlakj?utm_source=chrome-ntp-icon
 
