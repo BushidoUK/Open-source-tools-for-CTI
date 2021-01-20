@@ -64,4 +64,16 @@ Issuu - https://issuu.com/
 
 ```
 
+### Certifications
+
+GIAC - https://www.giac.org/certification/cyber-threat-intelligence-gcti
+
+CTIA - https://iclass.eccouncil.org/our-courses/certified-threat-intelligence-analyst-ctia/
+
+FOR578 - https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/
+
+```
+
+```
+
 [Home](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
