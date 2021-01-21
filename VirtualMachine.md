@@ -2,6 +2,8 @@
 
 Kali Linux - https://www.kali.org/downloads/
 
+Kali on Windows - https://www.kali.org/docs/wsl/win-kex/
+
 Flare VM by FireEye - https://www.fireeye.com/blog/threat-research/2017/07/flare-vm-the-windows-malware.html
 
 Commando VM by FireEye - https://www.fireeye.com/blog/threat-research/2019/03/commando-vm-windows-offensive-distribution.html
