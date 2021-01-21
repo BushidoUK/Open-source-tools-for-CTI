@@ -8,7 +8,7 @@ OSINT Framework - https://osintframework.com/
 
 OSINT Yoga - https://yoga.osint.ninja/
 
-Darknet - https://iaca-darkweb-tools.com/
+Username search - https://whatsmyname.app/
 
 Email Reputation - https://emailrep.io/
 
