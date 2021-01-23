@@ -44,9 +44,13 @@ SecureDrop - https://securedrop.org/
 
 Bandit (Linux Practice) - https://overthewire.org/wargames/bandit/
 
+PowerShell Training - https://underthewire.tech/
+
 OSINT CTF - https://ctf.cybersoc.wales/
 
 OSINT CTF - https://twitter.com/Sector035/status/1211038518635614208?s=20
+
+My CTF - https://blog.bushidotoken.net/p/ctf.html
 
 ```
 
