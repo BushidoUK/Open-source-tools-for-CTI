@@ -66,6 +66,8 @@ https://github.com/cybercdh/kitphishr
 
 https://phishunt.io/
 
+Guide on gather phishing CTI: https://loungefly84.medium.com/brand-protection-hunting-for-phishing-kits-34df8740989a
+
 ```
 
 ```
