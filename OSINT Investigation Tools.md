@@ -1,5 +1,7 @@
 ### OSINT Investigation Tools 🔎
 
+OSINT Search Operators - https://github.com/BushidoUK/OSINT-SearchOperators
+
 Bellingcat's OSINT tool set - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit
 
 OSINT for Finding People - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593
