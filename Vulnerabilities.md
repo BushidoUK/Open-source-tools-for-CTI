@@ -20,9 +20,13 @@ CXSECURITY - Exploits & Bug tracking - https://cxsecurity.com/
 
 Exploit Database - https://www.exploit-db.com/
 
-```
+Patrowl CVE feeds - https://www.patrowl.io/
+
+OpenCVE feeds - https://www.opencve.io/cve
 
 ```
 
+```
 
-[Home](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md)
+
+[Home](https://github.com/BushidoUK/Open-source-tools-for-CTI)
