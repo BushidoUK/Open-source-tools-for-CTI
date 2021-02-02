@@ -24,6 +24,8 @@ Patrowl CVE feeds - https://www.patrowl.io/
 
 OpenCVE feeds - https://www.opencve.io/cve
 
+BugBountyHunting - https://www.bugbountyhunting.com/
+
 ```
 
 ```
