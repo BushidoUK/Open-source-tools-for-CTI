@@ -2,14 +2,6 @@
 
 OSINT Search Operators - https://github.com/BushidoUK/OSINT-SearchOperators
 
-Bellingcat's OSINT tool set - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit
-
-OSINT for Finding People - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593
-
-OSINT Framework - https://osintframework.com/
-
-OSINT Yoga - https://yoga.osint.ninja/
-
 Username search - https://whatsmyname.app/
 
 Email Reputation - https://emailrep.io/
@@ -41,24 +33,7 @@ Webpage Archiver - http://archive.vn/
 
 Barcode Reader - https://online-barcode-reader.inliteresearch.com/
 
-Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/
-
 OSINT Team - https://osint.team/home
-
-OSINT Tool Blog - https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada
-
-OSINT techniques - https://github.com/sinwindie/OSINT
-
-Intel Techniques from M. Bazzell - https://inteltechniques.com/JE/OSINT_Packet_2019.pdf :closed_book:
-
-Privacy Checklist from M. Bazzell - https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf :closed_book:
-
-OSINT collection https://start.me/p/DPYPMz/the-ultimate-osint-collection :closed_book:
-
-```
-
-```
-### Generic OSINT
 
 https://archive.org/web/
 
@@ -69,6 +44,32 @@ https://www.192.com/people/search/
 https://rocketreach.co/
 
 https://emailrep.io/
+
+
+```
+
+```
+### OSINT collections
+
+OSINT Tool Blog - https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada :closed_book:
+
+OSINT techniques - https://github.com/sinwindie/OSINT :closed_book:
+
+Intel Techniques from M. Bazzell - https://inteltechniques.com/JE/OSINT_Packet_2019.pdf :closed_book:
+
+Privacy Checklist from M. Bazzell - https://inteltechniques.com/JE/Privacy_Checklists_Feb2019.pdf :closed_book:
+
+OSINT collection https://start.me/p/DPYPMz/the-ultimate-osint-collection :closed_book:
+
+Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/ :closed_book:
+
+Bellingcat's OSINT tool set - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit :closed_book:
+
+OSINT for Finding People - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593 :closed_book:
+
+OSINT Framework - https://osintframework.com/ :closed_book:
+ 
+OSINT Yoga - https://yoga.osint.ninja/ :closed_book:
 
 ```
 
