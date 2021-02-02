@@ -6,17 +6,6 @@ Username search - https://whatsmyname.app/
 
 Email Reputation - https://emailrep.io/
 
-FOCA - https://github.com/ElevenPaths/FOCA
-Required - [MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
-
-Maltego - https://www.paterva.com/downloads.php
-
-Spiderfoot - https://www.spiderfoot.net/
-
-NMAP/Zenmap - https://nmap.org/zenmap/
-
-OpenVAS - https://www.openvas.org/
-
 Image EXIF Data - https://exifdata.com/
 
 Synapsint - https://www.synapsint.com/
@@ -35,16 +24,19 @@ Barcode Reader - https://online-barcode-reader.inliteresearch.com/
 
 OSINT Team - https://osint.team/home
 
-https://archive.org/web/
+Wen Archive - https://archive.org/web/
 
-https://www.gov.uk/government/organisations/companies-house
+Companies House - https://www.gov.uk/government/organisations/companies-house
 
-https://www.192.com/people/search/
+192.com - https://www.192.com/people/search/
 
-https://rocketreach.co/
+RocketReach - https://rocketreach.co/
 
-https://emailrep.io/
+Email OSINT - https://emailrep.io/
 
+Maltego - https://www.paterva.com/downloads.php
+
+Spiderfoot - https://www.spiderfoot.net/
 
 ```
 
