@@ -65,7 +65,7 @@ Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/ :c
 
 Bellingcat's OSINT tool set - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit :closed_book:
 
-OSINT for Finding People - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593 :closed_book:
+OSINT for People - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593 :closed_book:
 
 OSINT Framework - https://osintframework.com/ :closed_book:
  
