@@ -26,6 +26,13 @@ Exploit-DB - https://www.exploit-db.com
 
 Certificate Stream - https://crt.sh/
 
+FOCA - https://github.com/ElevenPaths/FOCA
+Required - [MS-SQL Server 2017 Express](https://www.microsoft.com/en-au/sql-server/sql-server-editions-express)
+
+NMAP/Zenmap - https://nmap.org/zenmap/
+
+OpenVAS - https://www.openvas.org/
+
 ```
 
 ```
