@@ -47,6 +47,8 @@ via App
 
 Android Malware Telegram Channel - https://t.me/s/androidMalware
 
+cKure InfoSec News - https://telegram.me/s/cKure
+
 News Fusion - https://www.newsfusion.com/cyber-security
 
 ```
