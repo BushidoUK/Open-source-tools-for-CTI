@@ -10,8 +10,6 @@ The Cyber Wire daily breifing - https://thecyberwire.com/newsletters/daily-brief
 
 FBI Internet Crime Complaint Center (IC3) Newsletter - https://delivery.fbi.gov/subscribe 
 
-BAE Systems Insights - https://www.baesystems.com/en/cybersecurity/insights
-
 Department of Justice - https://public.govdelivery.com/accounts/USDOJ/subscriber/new
 
 ```
