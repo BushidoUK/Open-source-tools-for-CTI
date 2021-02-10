@@ -24,9 +24,23 @@ The New York Times news paper - https://nytimes3xbfgragh.onion
 
 Tor crawler - https://github.com/MikeMeliz/TorCrawl.py
 
+DarknetOnions - https://darknetonions.com/
+
+```
+
+```
+
+### Darknet subreddits
+
 r/Onions - https://www.reddit.com/r/onions/
 
-DarknetOnions - https://darknetonions.com/
+r/DNMBusts - https://www.reddit.com/r/DNMBusts/
+
+r/deepweb - https://www.reddit.com/r/deepweb/
+
+r/TOR - https://www.reddit.com/r/TOR/
+
+r/Darknet - https://www.reddit.com/r/darknet/
 
 ```
 
