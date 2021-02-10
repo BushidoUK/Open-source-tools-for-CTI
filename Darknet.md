@@ -26,6 +26,8 @@ Tor crawler - https://github.com/MikeMeliz/TorCrawl.py
 
 DarknetOnions - https://darknetonions.com/
 
+DarnetDaily - https://darknetdaily.com/
+
 ```
 
 ```
