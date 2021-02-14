@@ -28,6 +28,8 @@ DarknetOnions - https://darknetonions.com/
 
 DarnetDaily - https://darknetdaily.com/
 
+OSINT Tools for the Dark Web - https://github.com/apurvsinghgautam/dark-web-osint-tools
+
 ```
 
 ```
