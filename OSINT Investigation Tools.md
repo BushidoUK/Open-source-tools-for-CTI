@@ -2,10 +2,6 @@
 
 OSINT Search Operators - https://github.com/BushidoUK/OSINT-SearchOperators
 
-Username search - https://whatsmyname.app/
-
-Email Reputation - https://emailrep.io/
-
 Image EXIF Data - https://exifdata.com/
 
 Synapsint - https://www.synapsint.com/
@@ -32,11 +28,29 @@ Companies House - https://www.gov.uk/government/organisations/companies-house
 
 RocketReach - https://rocketreach.co/
 
-Email OSINT - https://emailrep.io/
-
 Maltego - https://www.paterva.com/downloads.php
 
 Spiderfoot - https://www.spiderfoot.net/
+
+```
+
+```
+
+### OSINT usernames
+
+https://whatsmyname.app/
+
+https://checkusernames.com/
+
+https://pgp.key-server.io/
+
+https://www.whoxy.com/
+
+https://github.com/soxoj/maigret
+
+https://github.com/megadose/holehe
+
+https://emailrep.io/
 
 ```
 
