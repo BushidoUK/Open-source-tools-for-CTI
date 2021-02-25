@@ -32,6 +32,8 @@ OSINT Tools for the Dark Web - https://github.com/apurvsinghgautam/dark-web-osin
 
 Crime Forums - https://github.com/misterch0c/CrimeBoards
 
+DarkSearch - https://darksearch.io/
+
 ```
 
 ```
