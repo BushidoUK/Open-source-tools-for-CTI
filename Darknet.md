@@ -30,6 +30,8 @@ DarnetDaily - https://darknetdaily.com/
 
 OSINT Tools for the Dark Web - https://github.com/apurvsinghgautam/dark-web-osint-tools
 
+Crime Forums - https://github.com/misterch0c/CrimeBoards
+
 ```
 
 ```
