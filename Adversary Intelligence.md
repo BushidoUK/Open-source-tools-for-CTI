@@ -38,6 +38,8 @@ ThaiCERT encyclopedia version 2.0 - https://www.dropbox.com/s/ds0ra0c8odwsv3m/Th
 
 National Security Archive - https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index
 
+Open Source Tools used by APTs - https://www.intezer.com/ost-map/
+
 ```
 
 ```
