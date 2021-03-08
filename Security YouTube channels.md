@@ -6,6 +6,8 @@ Grant Collins - https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/
 
 Lukas Stefanko - https://www.youtube.com/channel/UCg08SXtXlfADk4yAODpShfQ
 
+Colin Hardy - https://www.youtube.com/c/ColinHardy/
+
 Security BSides London - https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA/videos
 
 DEFCON Conference talks - https://www.youtube.com/user/DEFCONConference
