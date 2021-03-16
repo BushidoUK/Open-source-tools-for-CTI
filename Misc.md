@@ -12,8 +12,6 @@ Tiny URL - https://tinyurl.com/
 
 Kaspersky Password checker - https://password.kaspersky.com/
 
-Why the f@ck was I breached? - https://whythefuckwasibreached.com/ 😂
-
 CTF Training site - https://pwnable.kr/play.php
 
 Sourcing Games - https://www.sourcing.games/
@@ -79,5 +77,9 @@ FOR578 - https://www.sans.org/cyber-security-courses/cyber-threat-intelligence/
 ```
 
 ```
+
+Why the f@ck was I breached? - https://whythefuckwasibreached.com/ 😂
+
+Fake Update - https://fakeupdate.net/ 😂
 
 [Home](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
