@@ -2,6 +2,8 @@
 
 VECTR (ATT&CK framework) - https://github.com/securityriskadvisors/VECTR
 
+Harpoon - https://github.com/Te-k/harpoon
+
 OSweep - OSINT Dashboard & Triage VM - https://github.com/ecstatic-nobel/OSweep
 
 Sherlock - https://github.com/sherlock-project/sherlock
