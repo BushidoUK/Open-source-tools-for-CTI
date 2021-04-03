@@ -6,6 +6,8 @@ Harpoon - https://github.com/Te-k/harpoon
 
 OSweep - OSINT Dashboard & Triage VM - https://github.com/ecstatic-nobel/OSweep
 
+Goog-mail - https://github.com/BushidoUK/Goog-mail
+
 Sherlock - https://github.com/sherlock-project/sherlock
 
 Slurp - https://github.com/0xbharath/slurp
