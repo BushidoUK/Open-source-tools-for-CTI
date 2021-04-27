@@ -36,6 +36,12 @@ DarkSearch - https://darksearch.io/
 
 Identity Management - https://keepass.info/
 
+Stronghold Paste - nzxj65x32vh2fkhk[.]onion
+
+BTDigg - btdiggwzoyrwwbiv[.]onion
+
+Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
+
 ```
 
 ```
