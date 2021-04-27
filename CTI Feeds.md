@@ -55,4 +55,12 @@ InQuest - https://labs.inquest.net/
 
 ```
 
+Feed Management:
+
+via Discord - https://blog.bushidotoken.net/2021/02/using-discord-server-as-personal-cti.html
+
+```
+
+```
+
 [Home](https://github.com/WilliamThomas-sec/Opensource-tools/blob/master/README.md)
