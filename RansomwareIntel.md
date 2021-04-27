@@ -22,6 +22,7 @@ APK Mobile Ransomware - https://koodous.com/apks?search=tag:ransomware
 
 Ransomware Overview Spreadsheet - https://docs.google.com/spreadsheets/d/1TWS238xacAto-fLKh1n5uTsdijWdCEsGIM0Y0Hvmc5g/view
 
+Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
 
 ```
 
