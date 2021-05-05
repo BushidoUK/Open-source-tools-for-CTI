@@ -42,6 +42,10 @@ BTDigg - btdiggwzoyrwwbiv[.]onion
 
 Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
 
+Tor .onion URLs - https://thehiddenwiki.org/
+
+dark.fail: Is a darknet site online? - https://dark.fail/
+
 ```
 
 ```
