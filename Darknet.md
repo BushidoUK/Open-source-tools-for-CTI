@@ -19,17 +19,19 @@ DarknetOnions - https://darknetonions.com/
 ```
 ### .onions URLs
 
-Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
+dark.fail: Is a darknet site online? - https://dark.fail/
 
 Tor .onion URLs - https://thehiddenwiki.org/
 
-dark.fail: Is a darknet site online? - https://dark.fail/
+DarkWeb24 - https://darkweb24.net/
+
+Onion Tree - https://oniontree.org/
+
+Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
 
 Crime Forums - https://github.com/misterch0c/CrimeBoards
 
 Facebook social network - https://facebookcorewwwi.onion
-
-The New York Times news paper - https://nytimes3xbfgragh.onion
 
 DuckDuckGo privacy search - https://3g2upl4pq6kufc4m.onion
 
