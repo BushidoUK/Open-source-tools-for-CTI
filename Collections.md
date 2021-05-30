@@ -4,6 +4,8 @@ Threat Intel Dashboard - https://start.me/p/ELY5By/technical-sources
 
 OSINT Dashboard - https://start.me/p/wMxOjN/osint
 
+EDR Bypasses - https://s3cur3th1ssh1t.github.io/A-tale-of-EDR-bypass-methods/
+
 Red Team Penetration Testing Guide - https://github.com/tjnull/TJ-JPT
 
 SecLists - https://github.com/danielmiessler/SecLists
