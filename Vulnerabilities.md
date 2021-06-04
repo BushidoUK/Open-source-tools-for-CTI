@@ -6,6 +6,8 @@ National Vulnerability Database - https://nvd.nist.gov/
 
 Vulmon Trends - https://vulmon.com/trends
 
+CIRCL CVE feed - https://cvepremium.circl.lu/
+
 Mitre CVE feed - https://twitter.com/CVEnew
 
 Receive Vulnerability Alerts - https://alerts.vulmon.com/
