@@ -40,6 +40,12 @@ National Security Archive - https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c
 
 Open Source Tools used by APTs - https://www.intezer.com/ost-map/
 
+APT Notes part I - https://github.com/1sn0m4d/APTnotes
+
+APT Notes part II - https://github.com/aptnotes/data
+
+RedDrip7 APT tools - https://github.com/RedDrip7/APT_Digital_Weapon
+
 ```
 
 ```
