@@ -94,9 +94,11 @@ Will a/k/a BushidoToken
 
 ```
 
-Cyber Threat Intelligence quote: 
+Cyber Threat Intelligence quotes: 
 
-"If you see dark clouds outside, there's a threat of rain. If you decide to go out without an umbrella, that's a vulnerability. Combine the two and you have the risk of getting soaked. ☔" - Anonymous
+"If you see dark clouds outside, there's a threat of rain. If you decide to go out without an umbrella, that's a vulnerability. Combine the two and you have the risk of getting soaked." - Anonymous
+
+"Being a threatintel analyst is a constant struggle between wanting to be aware of everything constantly and wanting to understand anything meaningfully" - Nate Beach-Westmoreland
 
 ```
 
