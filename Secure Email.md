@@ -4,7 +4,7 @@ Protonmail - https://protonmail.com/
 
 CTemplar - https://ctemplar.com/
 
-10 Minute Mail - https://10minutemail.com/10MinuteMail/index.html
+10 Minute Mail - https://10minutemail.com/
 
 my24h - https://my24h.email
 
