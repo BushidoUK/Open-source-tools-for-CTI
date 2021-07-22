@@ -1,4 +1,4 @@
-### Vulnerabilities, bugs, & exploits
+### Vulnerabilities, bugs, & exploit feeds
 
 Full Disclosure - https://seclists.org/fulldisclosure/
 
@@ -31,6 +31,14 @@ BugBountyHunting - https://www.bugbountyhunting.com/
 ZDI - https://www.zerodayinitiative.com/advisories/upcoming/
 
 Security Wizardry - https://www.securitywizardry.com/the-radar-page/alert-details
+
+### Vulnerability researchers
+
+https://twitter.com/jonasLyk
+
+https://twitter.com/gentilkiwi
+
+https://twitter.com/ptswarm
 
 ```
 
