@@ -42,6 +42,22 @@ https://twitter.com/gentilkiwi
 
 https://twitter.com/ptswarm
 
+https://twitter.com/testanull
+
+https://twitter.com/wugeej
+
+https://twitter.com/bad_packets
+
+https://twitter.com/orange_8361
+
+https://twitter.com/maxpl0it
+
+### Vulnerability hunting contests
+
+Pwn2Own - https://twitter.com/search?q=%23pwn2own&src=typed_query&f=live
+
+Tianfu Cup - https://twitter.com/search?q=Tianfu%20Cup&src=typed_query&f=live
+
 ```
 
 ```
