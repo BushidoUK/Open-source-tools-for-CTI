@@ -32,6 +32,8 @@ ZDI - https://www.zerodayinitiative.com/advisories/upcoming/
 
 Security Wizardry - https://www.securitywizardry.com/the-radar-page/alert-details
 
+Cisco Talos - https://blog.talosintelligence.com/search/label/CVE
+
 ### Vulnerability researchers
 
 https://twitter.com/jonasLyk
