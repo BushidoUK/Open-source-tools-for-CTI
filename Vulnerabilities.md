@@ -28,6 +28,10 @@ OpenCVE feeds - https://www.opencve.io/cve
 
 BugBountyHunting - https://www.bugbountyhunting.com/
 
+ZDI - https://www.zerodayinitiative.com/advisories/upcoming/
+
+Security Wizardry - https://www.securitywizardry.com/the-radar-page/alert-details
+
 ```
 
 ```
