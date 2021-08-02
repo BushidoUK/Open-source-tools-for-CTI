@@ -52,6 +52,8 @@ https://twitter.com/orange_8361
 
 https://twitter.com/maxpl0it
 
+https://twitter.com/chompie1337 
+
 ### Vulnerability hunting contests
 
 Pwn2Own - https://twitter.com/search?q=%23pwn2own&src=typed_query&f=live
@@ -61,6 +63,5 @@ Tianfu Cup - https://twitter.com/search?q=Tianfu%20Cup&src=typed_query&f=live
 ```
 
 ```
-
 
 [Home](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md#index-%E2%84%B9%EF%B8%8F)
