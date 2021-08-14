@@ -24,6 +24,16 @@ REMnux - https://remnux.org/
 
 Buscador VM - https://inteltechniques.com/buscador/
 
+WhoNix - https://www.whonix.org/
+
+TAILS - https://tails.boum.org/index.en.html
+
+Qubes - https://www.qubes-os.org/
+
+QEMU - https://www.qemu.org/
+
+OpenBSD - https://www.freebsd.org/
+
 Virtual Box - https://www.virtualbox.org/
 
 Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
