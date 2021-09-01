@@ -52,6 +52,8 @@ https://github.com/megadose/holehe
 
 https://github.com/Rog3rSm1th/Profil3r
 
+https://github.com/ThoughtfulDev/EagleEye
+
 https://emailrep.io/
 
 https://tools.epieos.com/
