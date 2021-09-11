@@ -58,6 +58,8 @@ Tor scraper - https://github.com/adnane-X-tebbaa/Katana
 
 Tor crawler - https://github.com/MikeMeliz/TorCrawl.py
 
+Darknet OSINT - https://github.com/apurvsinghgautam/dark-web-osint-tools
+
 ```
 
 ```
