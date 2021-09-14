@@ -6,7 +6,7 @@ BPG Hurrican electric - https://bgp.he.net/
 
 Qualys SSL test  - https://www.ssllabs.com/ssltest/
 
-Gordon - https://gordon.mhg.ovh/
+Gordon - https://cybergordon.com/
 
 PulseDive - https://pulsedive.com/
 
