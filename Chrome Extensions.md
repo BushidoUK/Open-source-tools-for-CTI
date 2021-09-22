@@ -6,6 +6,8 @@ Sputnik - https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojk
 
 Mitaka - https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg?utm_source=chrome-ntp-icon
 
+Gotanda - https://chrome.google.com/webstore/detail/gotanda/jbmdcdfnnpenkgliplbglfpninigbiml
+
 Distill Web Monitor - https://chrome.google.com/webstore/detail/distill-web-monitor/inlikjemeeknofckkjolnjbpehgadgge?utm_source=chrome-ntp-icon
 
 Bulk URL Opener - https://chrome.google.com/webstore/detail/bulk-url-opener-extension/hgenngnjgfkdggambccohomebieocekm?utm_source=chrome-ntp-icon
