@@ -4,6 +4,8 @@ List of Darknet Data Leak victims - https://drive.google.com/file/d/1MI8Z2tBhmqQ
 
 ID Ransomware - https://id-ransomware.malwarehunterteam.com/
 
+ID Ransomware Blogspot - https://id-ransomware.blogspot.com/
+
 No More Ransom - https://www.nomoreransom.org/
 
 VirusTotal comments - https://www.virustotal.com/gui/search/ransomware/comments
