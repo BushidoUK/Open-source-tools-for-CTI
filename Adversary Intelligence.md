@@ -6,6 +6,8 @@ Campaign Monitor - https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Co
 
 Mitre Group DB - https://attack.mitre.org/groups/
 
+APT Member Legal Indictments - https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875
+
 Are you an APT target? - https://lab52.io/
 
 Dell SecureWorks Threat Profiles - https://www.secureworks.com/research/threat-profiles
