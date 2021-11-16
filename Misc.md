@@ -44,6 +44,8 @@ Definitive Guide to Cyber Threat Intelligence (iSIGHT, 2015) - https://cryptome.
 
 Analysis of Adversary Campaigns and Intrusion Kill Chains (Lockheed Martin) - https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/Gaining_the_Advantage_Cyber_Kill_Chain.pdf
 
+Hackers' Bazaar: Markets for Cybercrime Tools and Stolen Data (RAND) - https://www.rand.org/pubs/research_reports/RR610.html
+
 Bandit (Linux Practice) - https://overthewire.org/wargames/bandit/
 
 PowerShell Training - https://underthewire.tech/
