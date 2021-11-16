@@ -40,6 +40,12 @@ SecureDrop - https://securedrop.org/
 
 ### Learning
 
+Definitive Guide to Cyber Threat Intelligence (iSIGHT, 2015) - https://cryptome.org/2015/09/cti-guide.pdf
+
+Intelligence-Driven Computer Network Defense
+Informed by Analysis of Adversary Campaigns and
+Intrusion Kill Chains (Lockheed Martin) - https://www.lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/Gaining_the_Advantage_Cyber_Kill_Chain.pdf
+
 Bandit (Linux Practice) - https://overthewire.org/wargames/bandit/
 
 PowerShell Training - https://underthewire.tech/
