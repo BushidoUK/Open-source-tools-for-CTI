@@ -34,6 +34,8 @@ Security Wizardry - https://www.securitywizardry.com/the-radar-page/alert-detail
 
 Cisco Talos - https://blog.talosintelligence.com/search/label/CVE
 
+Zero Science Lab 0days - https://www.zeroscience.mk/en/vulnerabilities/
+
 ### Vulnerability researchers
 
 https://twitter.com/jonasLyk
