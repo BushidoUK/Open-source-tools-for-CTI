@@ -26,6 +26,8 @@ Ransomware Overview Spreadsheet - https://docs.google.com/spreadsheets/d/1TWS238
 
 Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd[.]onion
 
+Ransomware Cryptocurrency Wallets - https://ransomwhe.re/
+
 ```
 
 ```
