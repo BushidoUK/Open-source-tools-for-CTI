@@ -28,6 +28,10 @@ Ransomwre groups Wiki - edteebo2w2bvwewbjb5wgwxksuwqutbg3lk34ln7jpf3obhy4cvkbuqd
 
 Ransomware Cryptocurrency Wallets - https://ransomwhe.re/
 
+Who's been ransomware'd - https://ransom.wiki/
+
+Ransomware leak index - https://darkfeed.io/
+
 CISA Ransomware Newsroom - https://www.cisa.gov/stopransomware/newsroom
 
 CISA Ransomware Alerts - https://www.cisa.gov/stopransomware/official-alerts-statements-cisa
