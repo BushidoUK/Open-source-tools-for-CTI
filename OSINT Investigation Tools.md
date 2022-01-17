@@ -75,7 +75,7 @@ OSINT collection https://start.me/p/DPYPMz/the-ultimate-osint-collection :closed
 
 Aware-Online's OSINT tool list - https://www.aware-online.com/en/osint-tools/ :closed_book:
 
-Bellingcat's OSINT tool set - https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit :closed_book:
+Bellingcat's OSINT tool set - https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/edit#gid=930747607 :closed_book:
 
 OSINT for People - https://docs.google.com/spreadsheets/d/1JxBbMt4JvGr--G0Pkl3jP9VDTBunR2uD3_faZXDvhxc/edit#gid=970216593 :closed_book:
 
