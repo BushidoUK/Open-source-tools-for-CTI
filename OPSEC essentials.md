@@ -26,6 +26,10 @@ Secure messaging & file transfer - https://keybase.io/
 
 Intruder alerts - http://canarytokens.org/generate
 
+So, you want to be a darknet drug lord... https://pastebin.com/GrV3uYh5
+
+General Operational Security Resources - https://greysec.net/showthread.php?tid=2859
+
 ```
 
 ```
