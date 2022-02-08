@@ -33,7 +33,7 @@ Will a/k/a BushidoToken
 ## Acknowledgments
 
 ```
-n14 @olihough86 @JCyberSec_ @TheCyberViking @Rag_Sec @AlanTheBlank @BufferOfStyx @CybersecStu @ScottMcGready @TJ_Null @ZephrFish
+n14 @olihough86 @JCyberSec_ @Rag_Sec @BufferOfStyx @CybersecStu @ScottMcGready @TJ_Null @ZephrFish
 ```
 
 ### Index ℹ️
