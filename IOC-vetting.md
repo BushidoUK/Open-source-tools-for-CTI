@@ -23,3 +23,5 @@ Blacklist checks - https://check.spamhaus.org/
 Sandbox submissions - https://urlscan.io/search
 
 Sandbox submissions - https://app.any.run/
+
+Subdomains/DNS lookup - https://dnsdumpster.com/
