@@ -90,6 +90,8 @@ n14 @olihough86 @JCyberSec_ @Rag_Sec @BufferOfStyx @CybersecStu @ScottMcGready @
 
 [Darknet 🕶](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Darknet.md)
 
+[IOC vetting]()
+
 ```
 
 ```
