@@ -1,4 +1,4 @@
-### IOC Vetting
+### Network IOC Vetting
 
 Bulk Domain/IP lookup - https://www.infobyip.com/ipbulklookup.php
 
