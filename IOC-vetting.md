@@ -16,21 +16,15 @@ Single IOC lookup - https://www.virustotal.com/gui/home/search
 
 Single IOC lookup - https://pulsedive.com/
 
-Single IOC lookup - https://threatfox.abuse.ch/
-
 IP or /24 subnet lookup - https://www.abuseipdb.com/
 
-IP lookup - https://www.greynoise.io/
+Sandbox submissions - https://app.any.run/
 
 Blacklist checks - https://mxtoolbox.com/blacklists.aspx
 
 Blacklist checks - https://check.spamhaus.org/
 
 Botnet C2 checks- https://feodotracker.abuse.ch/browse/
-
-Sandbox submissions - https://urlscan.io/search
-
-Sandbox submissions - https://app.any.run/
 
 Subdomains/DNS lookup - https://dnsdumpster.com/
 
@@ -40,6 +34,14 @@ IP check - https://www.ipvoid.com/
 
 URL check - https://www.urlvoid.com/
 
-URL check - https://urlhaus.abuse.ch/
-
 SSL check - https://sslbl.abuse.ch/ssl-certificates/
+
+URL check - https://urlhaus.abuse.ch/browse/  [query syntax required e.g. url: or domain:]
+
+Single IOC lookup - https://threatfox.abuse.ch/browse/  [query syntax required e.g. ioc:]
+
+IP lookup - https://www.greynoise.io/ [query syntax required e.g. ip:]
+
+Sandbox submissions - https://urlscan.io/search [query syntax required e.g. ip: or domain:]
+
+Sandbox submissions - https://tria.ge/s [query syntax required e.g. ip: or domain:]
