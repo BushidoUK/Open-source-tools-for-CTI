@@ -4,7 +4,7 @@ Tor browser - https://www.torproject.org/download/
 
 Search tools - https://iaca-darkweb-tools.com/
 
-DarnetDaily - https://darknetdaily.com/
+DarknetDaily - https://darknetdaily.com/
 
 OSINT Tools for the Dark Web - https://github.com/apurvsinghgautam/dark-web-osint-tools
 
