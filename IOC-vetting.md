@@ -27,3 +27,5 @@ Sandbox submissions - https://urlscan.io/search
 Sandbox submissions - https://app.any.run/
 
 Subdomains/DNS lookup - https://dnsdumpster.com/
+
+Proxy check - https://www.ipqualityscore.com/
