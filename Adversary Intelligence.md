@@ -98,6 +98,20 @@ https://twitter.com/h2jazi
 
 https://twitter.com/blackorbird
 
+https://twitter.com/_thespis
+
+https://twitter.com/DeadlyLynn
+
+https://twitter.com/0xrb
+
+https://twitter.com/InQuest
+
+https://twitter.com/cyberoverdrive
+
+https://twitter.com/unpacker
+
+https://twitter.com/lazarusholic
+
 ```
 
 ```
