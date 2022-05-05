@@ -57,6 +57,24 @@ VX-UNDERGROUND APT samples - https://vx-underground.org/samples/Families/APT/
 ```
 
 ```
+### `Intelligence Agency and Security Services Internal Structure`
+
+China https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/
+
+USA https://xorl.wordpress.com/2021/04/18/us-cyber-operations-groups/
+
+Russia https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/
+
+Iran https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/
+
+EU https://xorl.wordpress.com/2021/04/28/eu-cyber-operations-groups/
+
+North Korea https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/
+
+
+```
+
+```
 
 ### APT researchers on Twitter
 
