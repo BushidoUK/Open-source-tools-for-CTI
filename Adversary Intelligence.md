@@ -9,10 +9,6 @@
 - ThaiCERT APT encyclopedia - https://www.thaicert.or.th/downloads/files/A_Threat_Actor_Encyclopedia.pdf
 - ThaiCERT APT encyclopedia v2.0 - https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf
 
-```
-
-```
-
 #### `Databases & Collections`
 
 - Adversary Monikers - https://github.com/StrangerealIntel/EternalLiberty/blob/main/EternalLiberty.csv
@@ -34,20 +30,12 @@
 - RedDrip7 APT tools - https://github.com/RedDrip7/APT_Digital_Weapon
 - RedDrip7 APT map - https://ti.qianxin.com/apt/
 
-
-```
-
-```
-
 #### `APT Trend Reports`
 
 - CrowdStrike Yearly Global Threat Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=%22CrowdStrike+Global+Threat+Report%22)
 - Mandiant Yearly M-Trends Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=%22Mandiant+M-Trends%22)
 - Kaspersky GReAT Quarterly APT Trends Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=%22Securelist+APT+trends+report%22)
 
-```
-
-```
 #### `Intelligence Agency and Security Services Internal Structure`
 
 - China https://xorl.wordpress.com/2021/04/20/chinese-cyber-operations-groups/
@@ -56,10 +44,6 @@
 - Iran https://xorl.wordpress.com/2021/05/06/iran-cyber-operations-groups/
 - EU https://xorl.wordpress.com/2021/04/28/eu-cyber-operations-groups/
 - North Korea https://xorl.wordpress.com/2021/04/24/north-korea-dprk-cyber-operations-groups/
-
-```
-
-```
 
 #### `APT researchers on Twitter`
 
@@ -81,9 +65,6 @@
 - https://twitter.com/unpacker
 - https://twitter.com/lazarusholic
 
-```
-
-```
 #### `Additional Resources`
 
 - Are you an APT target? - https://lab52.io/
