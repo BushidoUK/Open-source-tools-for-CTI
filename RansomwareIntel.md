@@ -32,7 +32,7 @@ Ransomware Cryptocurrency Wallets - https://ransomwhe.re/
 
 Who's been ransomware'd - https://ransom.wiki/
 
-Ransomware leak index - https://darkfeed.io/
+Ransomware leak index - hxxps://darkfeed.io/ [offline]
 
 CISA Ransomware Newsroom - https://www.cisa.gov/stopransomware/newsroom
 
