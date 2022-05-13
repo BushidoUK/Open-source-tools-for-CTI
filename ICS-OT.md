@@ -17,6 +17,7 @@
 
 #### `CTI vendor blogs on ICS`
 - Mandiant ICS blogs - https://www.mandiant.com/search?search=OT
+- Cisco Talos ICS blogs - https://blog.talosintelligence.com/search/label/ICS
 - Cyble ICS blogs - https://blog.cyble.com/?s=ICS
 
 #### `Resources`
