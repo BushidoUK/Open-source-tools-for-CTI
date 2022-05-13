@@ -2,14 +2,20 @@
 
 #### `ICS alerts`
 - CISA ICS-CERT - https://www.cisa.gov/uscert/ics/alerts
+- ICS NewsNow Feed - https://www.newsnow.co.uk/h/?search=Industrial+Control+Systems&lang=en&searchheadlines=1
+- SCADA NewsNow Feed - https://www.newsnow.co.uk/h/?search=scada&lang=en&searchheadlines=1
 
-#### `Vendor blogs`
+#### `ICS vendor blogs`
 - Dragos - https://www.dragos.com/resources/
 - Kaspersky ICS-CERT - https://ics-cert.kaspersky.com/publications/reports/
 - ClarOTy - https://claroty.com/blog/
 - Red Balloon - https://redballoonsecurity.com/blog/index.html
 - Forescout - https://www.forescout.com/blog/
 - Nozomi - https://www.nozominetworks.com/resources/research-reports/
+
+#### `CTI vendor blogs on ICS`
+- Mandiant ICS blogs - https://www.mandiant.com/search?search=OT
+- Cyble ICS blogs - https://blog.cyble.com/?s=ICS
 
 #### `Resources`
 - vx-underground - https://www.vx-underground.org/ics_scada.html
