@@ -12,6 +12,8 @@
 - Red Balloon - https://redballoonsecurity.com/blog/index.html
 - Forescout - https://www.forescout.com/blog/
 - Nozomi - https://www.nozominetworks.com/resources/research-reports/
+- JSOF - https://www.jsof-tech.com/blog/
+- SCADAfence - https://blog.scadafence.com/
 
 #### `CTI vendor blogs on ICS`
 - Mandiant ICS blogs - https://www.mandiant.com/search?search=OT
