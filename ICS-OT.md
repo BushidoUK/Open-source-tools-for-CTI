@@ -18,6 +18,7 @@
 #### `CTI vendor blogs on ICS`
 - Mandiant ICS blogs - https://www.mandiant.com/search?search=OT
 - Cisco Talos ICS blogs - https://blog.talosintelligence.com/search/label/ICS
+- Trend Micro ICS blogs - https://www.trendmicro.com/en_us/common/cse.html#?cludoquery=ICS
 - Cyble ICS blogs - https://blog.cyble.com/?s=ICS
 - IBM Energy & Utility blogs - https://securityintelligence.com/category/energy-utility-industry/ 
 
