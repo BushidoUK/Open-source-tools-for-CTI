@@ -19,6 +19,7 @@
 - Mandiant ICS blogs - https://www.mandiant.com/search?search=OT
 - Cisco Talos ICS blogs - https://blog.talosintelligence.com/search/label/ICS
 - Cyble ICS blogs - https://blog.cyble.com/?s=ICS
+- IBM Energy & Utility blogs - https://securityintelligence.com/category/energy-utility-industry/ 
 
 #### `Resources`
 - vx-underground - https://www.vx-underground.org/ics_scada.html
