@@ -4,6 +4,7 @@
 - CISA ICS-CERT - https://www.cisa.gov/uscert/ics/alerts
 - ICS NewsNow Feed - https://www.newsnow.co.uk/h/?search=Industrial+Control+Systems&lang=en&searchheadlines=1
 - SCADA NewsNow Feed - https://www.newsnow.co.uk/h/?search=scada&lang=en&searchheadlines=1
+- SecurityWeek ICS News Column - https://www.securityweek.com/icsot
 
 #### `ICS vendor blogs`
 - Dragos - https://www.dragos.com/resources/
@@ -27,9 +28,29 @@
 - MITRE ATT&CK ICS Techniques - https://attack.mitre.org/techniques/ics/
 - MITRE ATT&CK ICS Mitigations - https://attack.mitre.org/mitigations/ics/
 - The Industrial Control System Cyber Kill Chain - https://www.sans.org/white-papers/36297/
-- SANS ICS - https://twitter.com/SANSICS
 - UK NCSC Industrial Control System Community of Interest (ICS COI) - https://www.ncsc.gov.uk/blog-post/strength-of-ics-coi-is-the-team
 
 #### `ICS Talks`
 - Baffling Berserk Bear - https://www.youtube.com/watch?v=SX3BBfYP3m8
 - PIPEDREAM – Most Flexible & Capable ICS Malware To Date - https://www.youtube.com/watch?v=H82sbIwFxt4
+
+#### `ICS Researchers`
+- [@ICSCERT](https://twitter.com/ICSCERT)
+- [@ICS_Village](https://twitter.com/ICS_Village)
+- [@SANS ICS](https://twitter.com/SANSICS)
+- [@KasperskyICS](https://twitter.com/KasperskyICS)
+- [@RUSCADASEC](https://twitter.com/RUSCADASEC)
+- [@ReverseICS](https://twitter.com/ReverseICS)
+- [@IcsNick](https://twitter.com/IcsNick)
+- [@Kevin_ICS](https://twitter.com/Kevin_ICS)
+- [@ICS_SCADA](https://twitter.com/ICS_SCADA)
+- [@chrissistrunk](https://twitter.com/chrissistrunk)
+- [@jfslowik](https://twitter.com/jfslowik)
+- [@brysonbort](https://twitter.com/brysonbort)
+- [@Marmusha](https://twitter.com/Marmusha)
+- [@shipulin_anton](https://twitter.com/shipulin_anton)
+- [@dudekmar](https://twitter.com/dudekmar)
+- [@mayahustle](https://twitter.com/mayahustle)
+- [@icsk3n](https://twitter.com/icsk3n)
+- [@JimGilsinn](https://twitter.com/JimGilsinn)
+
