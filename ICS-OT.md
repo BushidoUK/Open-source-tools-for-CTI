@@ -35,6 +35,8 @@
 - PIPEDREAM – Most Flexible & Capable ICS Malware To Date - https://www.youtube.com/watch?v=H82sbIwFxt4
 
 #### `ICS Researchers`
+- [@5w0rdFish](https://twitter.com/5w0rdFish)
+- [@DragosInc](https://twitter.com/DragosInc)
 - [@ICSCERT](https://twitter.com/ICSCERT)
 - [@ICS_Village](https://twitter.com/ICS_Village)
 - [@SANS ICS](https://twitter.com/SANSICS)
