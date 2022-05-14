@@ -29,6 +29,7 @@
 - MITRE ATT&CK ICS Mitigations - https://attack.mitre.org/mitigations/ics/
 - The Industrial Control System Cyber Kill Chain - https://www.sans.org/white-papers/36297/
 - UK NCSC Industrial Control System Community of Interest (ICS COI) - https://www.ncsc.gov.uk/blog-post/strength-of-ics-coi-is-the-team
+- Shodan ICS Safari - https://www.shodan.io/explore/category/industrial-control-systems
 
 #### `ICS Talks`
 - Baffling Berserk Bear - https://www.youtube.com/watch?v=SX3BBfYP3m8
