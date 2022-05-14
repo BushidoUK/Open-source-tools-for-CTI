@@ -13,8 +13,6 @@
 - Danooct1 Malware analysis - https://www.youtube.com/user/danooct1
 - Michael Gillespie - https://www.youtube.com/user/Demonslay335/videos
 - MalwareAnalysisForHedgehogs - https://www.youtube.com/c/MalwareAnalysisForHedgehogs/videos
-- vx-underground - https://www.youtube.com/channel/UC0g-PFeCjWJvBYgCwCWWUzA
-- The Glasshouse Center - https://www.youtube.com/channel/UC1vgdCz3YkBTKlrcXZHfrBA/videos
 - StudioSec - https://www.youtube.com/c/StudioSec/videos
 - AhmedS Kasmani - https://www.youtube.com/channel/UC0vsNncAvJlPh2XGUi5s33Q/videos
 - BendoBrown - https://www.youtube.com/c/Bendobrown/videos
@@ -47,3 +45,5 @@
 - Kaspersky - https://www.youtube.com/c/KasperskyLab/videos
 - Microsoft Security - https://www.youtube.com/c/MicrosoftSecurity/videos
 - Bastille - https://www.youtube.com/c/Bastille/videos
+- vx-underground - https://www.youtube.com/channel/UC0g-PFeCjWJvBYgCwCWWUzA
+- The Glasshouse Center - https://www.youtube.com/channel/UC1vgdCz3YkBTKlrcXZHfrBA/videos
