@@ -32,8 +32,12 @@
 - Shodan ICS Safari - https://www.shodan.io/explore/category/industrial-control-systems
 
 #### `ICS Talks`
-- Baffling Berserk Bear - https://www.youtube.com/watch?v=SX3BBfYP3m8
 - PIPEDREAM – Most Flexible & Capable ICS Malware To Date - https://www.youtube.com/watch?v=H82sbIwFxt4
+- Industroyer2 with Robert Lipovsky of ESET - https://www.youtube.com/watch?v=mbCWplL8-ng
+- Baffling Berserk Bear - https://www.youtube.com/watch?v=SX3BBfYP3m8
+- Dragos Webinar Spyware Stealer Locker Wiper LockerGoga Revisited - https://www.youtube.com/watch?v=VziQT5qw9XA
+- Dan Gunter & Daniel Michaud-Soucy - Stateful Protocol Hunting - https://www.youtube.com/watch?v=KTczBtb2ReU
+- SANS Webinar: Anatomy of the TRITON ICS Cyberattack - https://www.youtube.com/watch?v=zorVnE_aL40
 
 #### `ICS Researchers`
 - [@5w0rdFish](https://twitter.com/5w0rdFish)
