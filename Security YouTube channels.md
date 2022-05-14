@@ -5,7 +5,7 @@
 - Grant Collins - https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/
 - John Hammond - https://www.youtube.com/c/JohnHammond010/videos
 - Lukas Stefanko - https://www.youtube.com/channel/UCg08SXtXlfADk4yAODpShfQ
-- Colin Hardy - hxxps://www.youtube.com/c/ColinHardy/ [404]
+- Colin Hardy - hxxps://www[.]youtube[.]com/c/ColinHardy/ [404]
 - Malwaretech - https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ
 - Mr Turvey - https://www.youtube.com/c/MrTurvey/videos
 - GrujaRS Ransomware - https://www.youtube.com/c/CyberSecurityGrujaRS/videos
