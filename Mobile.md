@@ -23,9 +23,11 @@
 - Cybersecurity 101: WHAT IS MOBILE MALWARE? - https://www.crowdstrike.com/cybersecurity-101/malware/mobile-malware/
 - Android Banking Trojan Nexus - https://github.com/BushidoUK/Android-Banking-Trojan-Nexus/blob/main/Android.csv
 - Corellium Mobile Virtualization - https://github.com/corellium
+- ALL of The Citizen Lab's blogs on mobile spyware - https://citizenlab.ca/category/research/
 
 #### `Important Reports: Cybercrime`
--
+- Cerberus Android malware pushed via a compromised Mobile Device Management (MDM) server - by [Check Point Research](https://research.checkpoint.com/2020/mobile-as-attack-vector-using-mdm/)
+- 
 
 #### `Important Reports: State-sponsored`
 -
