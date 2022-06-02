@@ -76,6 +76,7 @@
 - Circles is an Israeli surveillance firm that exploits SS7 vulnerabilities to spy on calls, texts, and location information - see [here](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
 - Anglo-German firm, Gamma Group, developed the “strategic wide-scale interception and monitoring solution” FinFisher for iOS and Android - see [here](https://wikileaks.org/spyfiles/docs/gamma/291_remote-monitoring-and-infection-solutions-finspy-mobile.html)
 - Russia-based company, Special Technology Centre (STC), developed the Android surveillanceware tool called "Monokle" - see [here](https://www.lookout.com/documents/threat-reports/lookout-discovers-monokle-threat-report.pdf)
+- UAE-based company, DarkMatter, that consists of ex-NSA mercenaries who developed mobile exploits and spyware - see [here](https://www.reuters.com/investigates/special-report/usa-spying-raven/)
 
 #### `Mobile Security & Threat Researchers`
 - https://twitter.com/apkdetect
