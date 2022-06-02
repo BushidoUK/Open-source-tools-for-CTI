@@ -4,32 +4,6 @@ Welcome, this is a repository of opensource tools that I have found interesting 
 
 Please feel free to check out my blog too: https://bushidotoken.net and follow me on Twitter: [@BushidoToken](https://twitter.com/BushidoToken)
 
-## Getting Started
-
-Please ensure that some of the tools require permission to use and not all are for commercial use.
-
-```
-Hint: Pressing middle mouse button opens in new tab.
-```
-
-### Prerequisites
-
-Primary operating system with virtualization software.
-
-```
-Examples: 
-Windows 10 with Virtual Box/VMWare
-MacOS with Virtual Box/VMWare
-```
-
-## Contributing
-
-Please email me: will@bushidotoken.net if you would like to contribute to Opensource-tools
-
-## Authors
-
-Will a/k/a BushidoToken
-
 ## Acknowledgments
 
 ```
