@@ -19,7 +19,7 @@
 - VirusTotal: iOS - https://www.virustotal.com/gui/search/ios/comments
 - VirusTotal: iPhone - https://www.virustotal.com/gui/search/iphone/comments
 
-#### `Resources`
+#### `Mobile Threat Resources`
 - Cybersecurity 101: WHAT IS MOBILE MALWARE? - https://www.crowdstrike.com/cybersecurity-101/malware/mobile-malware/
 - Mobile Malware Overview by Europol - https://www.europol.europa.eu/operations-services-and-innovation/public-awareness-and-prevention-guides/mobile-malware
 - Android Banking Trojan Nexus - https://github.com/BushidoUK/Android-Banking-Trojan-Nexus/blob/main/Android.csv
@@ -27,7 +27,7 @@
 - ALL of The Citizen Lab's blogs on mobile spyware - https://citizenlab.ca/category/research/
 - Various SIM swapping blogs by Brian Krebs - https://krebsonsecurity.com/category/sim-swapping/
 
-#### `Important Reports: Cybercrime`
+#### `Important Mobile Threat Reports: Cybercrime`
 - Cerberus Android malware pushed via a compromised Mobile Device Management (MDM) server - by [Check Point Research](https://research.checkpoint.com/2020/mobile-as-attack-vector-using-mdm/)
 - Developer of Anubis Android BankBot was arrested in Stavropol, Russia - by [stv24](https://web.archive.org/web/20210515025455/https://stv24.tv/novosti/izvestnogo-hakera-maza-in-budut-sudit-v-stavropole/)
 - Out-of-band SMS phishing for Office 365 credentials - by [SANS ISC](https://isc.sans.edu/forums/diary/Out+of+Band+Phishing+Using+SMS+messages+to+Evade+Network+Detection/27768/)
@@ -40,7 +40,7 @@
 - Next Generation of Latin American Banking Trojans - by [Check Point Research](https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/)
 - Massive Fraud Operation Facilitated by Evil Mobile Emulator Farms - by [IBM Trusteer](https://securityintelligence.com/posts/massive-fraud-operation-evil-mobile-emulator-farms/)
 
-#### `Important Reports: State-sponsored`
+#### `Important Mobile Threat Reports: State-sponsored`
 -
 
 #### `Mobile Spyware Companies`
