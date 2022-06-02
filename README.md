@@ -92,7 +92,7 @@ n14 @olihough86 @JCyberSec_ @Rag_Sec @BufferOfStyx @CybersecStu @ScottMcGready @
 
 [Network IOC vetting 🚨](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/IOC-vetting.md)
 
-[ICS/OT 🎛️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/ICS-OT.md)
+[ICS/OT Threat Intel 🎛️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/ICS-OT.md)
 
 [Mobile Threat Intel 📱]()
 
