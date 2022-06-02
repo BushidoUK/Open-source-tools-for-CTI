@@ -41,36 +41,34 @@
 - Massive Fraud Operation Facilitated by Evil Mobile Emulator Farms - by [IBM Trusteer](https://securityintelligence.com/posts/massive-fraud-operation-evil-mobile-emulator-farms/)
 
 #### `Important Mobile Threat Reports: State-sponsored`
-- ##### Russia
+- `Russia`
   - SVR cyberspies used iOS zero-day in LinkedIn phishing campaign - see [here](https://therecord.media/svr-cyberspies-used-ios-zero-day-in-recent-phishing-campaign/)
   - Russia's ‘Sandworm’ Hackers Also Targeted Android Phones - see [here](https://www.wired.com/story/sandworm-android-malware/)
   - FancyBear Android mlaware to track Ukrainian Artillery Units - see [here](https://www.crowdstrike.com/wp-content/brochures/FancyBearTracksUkrainianArtillery.pdf)
-- ##### China
+- `China`
   -  Chinese phones with built-in malware sold in Africa - see [here](https://www.bbc.co.uk/news/technology-53903436)
   -  How China turned a prize-winning iPhone hack against the Uyghurs - see [here](https://www.technologyreview.com/2021/05/06/1024621/china-apple-spy-uyghur-hacker-tianfu/)
   -  Mobile APT Surveillance Campaigns Targeting Uyghurs - see [here](https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf)
-- ##### North Korea
+- `North Korea`
   - North Korean Defectors and Journalists Targeted Using Social Networks and fake KakaoTalk app - see [here](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/north-korean-defectors-journalists-targeted-using-social-networks-kakaotalk/)
   - Kimsuky software supply chain attack against Hdac cryptocurrency wallet Android app on Google Play Store - see [here](https://twitter.com/vigilantbeluga/status/1315720089316941824)
-- ##### Iran
+- `Iran`
   - Domestic Kitten: An Iranian Surveillance Operation - see [here](https://research.checkpoint.com/2018/domestic-kitten-an-iranian-surveillance-operation/)
   - Mobile Campaign ‘Bouncing Golf’ Affects Middle East - see [here](https://www.trendmicro.com/en_us/research/19/f/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east.html)
-- ##### Pakistan
+- `Pakistan`
   -  Custom Android and iOS surveillanceware tools Stealth Mango and Tangelo used by the Pakistani military - see [here](https://info.lookout.com/rs/051-ESQ-475/images/lookout-stealth-mango-srr-us.pdf)
   -  DoNot’s Firestarter abuses Google Firebase Cloud Messaging to spread - see [here](https://blog.talosintelligence.com/2020/10/donot-firestarter.html)
-- ##### India
+- `India`
   - SideWinder hackers plant fake Android VPN app in Google Play Store - see [here](https://www.bleepingcomputer.com/news/security/sidewinder-hackers-plant-fake-android-vpn-app-in-google-play-store/)
-- ##### Syria
+- `Syria`
   - Nation-state Mobile Malware Targets Syrians with COVID-19 Lures - see [here](https://www.lookout.com/blog/nation-state-mobile-malware-targets-syrians-with-covid-19-lures)
-- ##### Vietnam
+- `Vietnam`
   - Hiding in plain sight: PhantomLance walks into a market - see [here](https://securelist.com/apt-phantomlance/96772/)
-- ##### Hamas cyberwarfare division
+- `Hamas cyberwarfare division`
   - Operation Bearded Barbie: APT-C-23 Campaign Targeting Israeli Officials - see [here](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 #### `Mobile Spyware Companies`
-- Israel-based NSO Group
-  - Pegasus for Android - see [here](https://www.lookout.com/blog/pegasus-android)
-  - Pegasus for iOS - see [here](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf)
+- Israel-based NSO Group's Pegasus for Android and iOS - see [here](https://www.lookout.com/blog/pegasus-android) and [here](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf)
 - Candiru is a secretive Israel-based company that sells spyware exclusively to governments - see [here](https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/)
 - Israel-based firm, Cytrox, is part of the “Intellexa alliance,” a range of spyware vendors that emerged in 2019 - see [here](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
 - Circles is an Israeli surveillance firm that exploits SS7 vulnerabilities to spy on calls, texts, and location information - see [here](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
