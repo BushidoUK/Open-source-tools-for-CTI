@@ -6,6 +6,7 @@
 - SCADA NewsNow Feed - https://www.newsnow.co.uk/h/?search=scada&lang=en&searchheadlines=1
 - SecurityWeek ICS News Column - https://www.securityweek.com/icsot
 - TheRecord by Recorded Future ICS articles - https://therecord.media/?s=Industrial+Control+Systems
+- IndustrialCyber - https://industrialcyber.co/news/
 
 #### `ICS vendor blogs`
 - Dragos - https://www.dragos.com/resources/
