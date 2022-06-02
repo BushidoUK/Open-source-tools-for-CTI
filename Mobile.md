@@ -41,19 +41,31 @@
 - Massive Fraud Operation Facilitated by Evil Mobile Emulator Farms - by [IBM Trusteer](https://securityintelligence.com/posts/massive-fraud-operation-evil-mobile-emulator-farms/)
 
 #### `Important Mobile Threat Reports: State-sponsored`
-- Russia
+- ##### Russia
   - SVR cyberspies used iOS zero-day in LinkedIn phishing campaign - see [here](https://therecord.media/svr-cyberspies-used-ios-zero-day-in-recent-phishing-campaign/)
   - Russia's ‘Sandworm’ Hackers Also Targeted Android Phones - see [here](https://www.wired.com/story/sandworm-android-malware/)
   - FancyBear Android mlaware to track Ukrainian Artillery Units - see [here](https://www.crowdstrike.com/wp-content/brochures/FancyBearTracksUkrainianArtillery.pdf)
-- China
+- ##### China
   -  Chinese phones with built-in malware sold in Africa - see [here](https://www.bbc.co.uk/news/technology-53903436)
   -  How China turned a prize-winning iPhone hack against the Uyghurs - see [here](https://www.technologyreview.com/2021/05/06/1024621/china-apple-spy-uyghur-hacker-tianfu/)
   -  Mobile APT Surveillance Campaigns Targeting Uyghurs - see [here](https://www.lookout.com/documents/threat-reports/us/lookout-uyghur-malware-tr-us.pdf)
-- North Korea
+- ##### North Korea
   - North Korean Defectors and Journalists Targeted Using Social Networks and fake KakaoTalk app - see [here](https://www.mcafee.com/blogs/other-blogs/mcafee-labs/north-korean-defectors-journalists-targeted-using-social-networks-kakaotalk/)
   - Kimsuky software supply chain attack against Hdac cryptocurrency wallet Android app on Google Play Store - see [here](https://twitter.com/vigilantbeluga/status/1315720089316941824)
-
-- see [here]()
+- ##### Iran
+  - Domestic Kitten: An Iranian Surveillance Operation - see [here](https://research.checkpoint.com/2018/domestic-kitten-an-iranian-surveillance-operation/)
+  - Mobile Campaign ‘Bouncing Golf’ Affects Middle East - see [here](https://www.trendmicro.com/en_us/research/19/f/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east.html)
+- ##### Pakistan
+  -  Custom Android and iOS surveillanceware tools Stealth Mango and Tangelo used by the Pakistani military - see [here](https://info.lookout.com/rs/051-ESQ-475/images/lookout-stealth-mango-srr-us.pdf)
+  -  DoNot’s Firestarter abuses Google Firebase Cloud Messaging to spread - see [here](https://blog.talosintelligence.com/2020/10/donot-firestarter.html)
+- ##### India
+  - SideWinder hackers plant fake Android VPN app in Google Play Store - see [here](https://www.bleepingcomputer.com/news/security/sidewinder-hackers-plant-fake-android-vpn-app-in-google-play-store/)
+- ##### Syria
+  - Nation-state Mobile Malware Targets Syrians with COVID-19 Lures - see [here](https://www.lookout.com/blog/nation-state-mobile-malware-targets-syrians-with-covid-19-lures)
+- ##### Vietnam
+  - Hiding in plain sight: PhantomLance walks into a market - see [here](https://securelist.com/apt-phantomlance/96772/)
+- ##### Hamas cyberwarfare division
+  - Operation Bearded Barbie: APT-C-23 Campaign Targeting Israeli Officials - see [here](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 #### `Mobile Spyware Companies`
 - Android surveillanceware tool called Monokle developed by the St. Petersburg, Russia-based company, Special 
