@@ -68,11 +68,14 @@
   - Operation Bearded Barbie: APT-C-23 Campaign Targeting Israeli Officials - see [here](https://www.cybereason.com/blog/operation-bearded-barbie-apt-c-23-campaign-targeting-israeli-officials)
 
 #### `Mobile Spyware Companies`
-- Android surveillanceware tool called Monokle developed by the St. Petersburg, Russia-based company, Special 
-Technology Centre - see [here](https://www.lookout.com/documents/threat-reports/lookout-discovers-monokle-threat-report.pdf)
-
-#### `Mobile Data Leaks and Breaches`
--
+- Israel-based NSO Group
+  - Pegasus for Android - see [here](https://www.lookout.com/blog/pegasus-android)
+  - Pegasus for iOS - see [here](https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf)
+- Candiru is a secretive Israel-based company that sells spyware exclusively to governments - see [here](https://citizenlab.ca/2021/07/hooking-candiru-another-mercenary-spyware-vendor-comes-into-focus/)
+- Israel-based firm, Cytrox, is part of the “Intellexa alliance,” a range of spyware vendors that emerged in 2019 - see [here](https://citizenlab.ca/2021/12/pegasus-vs-predator-dissidents-doubly-infected-iphone-reveals-cytrox-mercenary-spyware/)
+- Circles is an Israeli surveillance firm that exploits SS7 vulnerabilities to spy on calls, texts, and location information - see [here](https://citizenlab.ca/2020/12/running-in-circles-uncovering-the-clients-of-cyberespionage-firm-circles/)
+- Anglo-German firm, Gamma Group, developed the “strategic wide-scale interception and monitoring solution” FinFisher for iOS and Android - see [here](https://wikileaks.org/spyfiles/docs/gamma/291_remote-monitoring-and-infection-solutions-finspy-mobile.html)
+- Russia-based company, Special Technology Centre (STC), developed the Android surveillanceware tool called "Monokle" - see [here](https://www.lookout.com/documents/threat-reports/lookout-discovers-monokle-threat-report.pdf)
 
 #### `Mobile Security & Threat Researchers`
 - https://twitter.com/apkdetect
