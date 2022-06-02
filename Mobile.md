@@ -88,7 +88,7 @@
 - https://twitter.com/m0br3v
 - https://twitter.com/virqdroid
 - https://twitter.com/ninoseki
-- https://twitter.com/_icebre4ker_
+- [https://twitter.com/_icebre4ker_](https://twitter.com/_icebre4ker_)
 - https://twitter.com/midnight_comms
 - https://twitter.com/aazim_here
 - https://twitter.com/sh1shk0va
