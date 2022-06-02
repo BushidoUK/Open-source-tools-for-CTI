@@ -54,7 +54,10 @@
   - Kimsuky software supply chain attack against Hdac cryptocurrency wallet Android app on Google Play Store - see [here](https://twitter.com/vigilantbeluga/status/1315720089316941824)
 - `Iran`
   - Domestic Kitten: An Iranian Surveillance Operation - see [here](https://research.checkpoint.com/2018/domestic-kitten-an-iranian-surveillance-operation/)
-  - Mobile Campaign ‘Bouncing Golf’ Affects Middle East - see [here](https://www.trendmicro.com/en_us/research/19/f/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east.html)
+  - Mobile Campaign Bouncing Golf Affects Middle East - see [here](https://www.trendmicro.com/en_us/research/19/f/mobile-cyberespionage-campaign-bouncing-golf-affects-middle-east.html)
+  - MuddyWater Android espionage campaigns against Turkey, Afghanistan, and Pakistan - see [here](https://documents.trendmicro.com/assets/white_papers/wp_new_muddywater_findings_uncovered.pdf)
+- `Turkey`
+  - StrongPity APT Group Deploys Android Malware - see [here](https://www.trendmicro.com/en_us/research/21/g/strongpity-apt-group-deploys-android-malware-for-the-first-time.html)
 - `Pakistan`
   -  Custom Android and iOS surveillanceware tools Stealth Mango and Tangelo used by the Pakistani military - see [here](https://info.lookout.com/rs/051-ESQ-475/images/lookout-stealth-mango-srr-us.pdf)
   -  DoNot’s Firestarter abuses Google Firebase Cloud Messaging to spread - see [here](https://blog.talosintelligence.com/2020/10/donot-firestarter.html)
