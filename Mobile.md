@@ -1,7 +1,7 @@
 ## Mobile Threat Intelligence
 
 #### `Mobile Security Vendor Blogs`
-- ThreatFabric - https://www.threatfabric.com/
+- ThreatFabric - https://threatfabric.com/blogs.html
 - Cleafy Labs- https://www.cleafy.com/labs
 - Lookout - https://www.lookout.com/tag/threat-intelligence
 - Zimperium - https://blog.zimperium.com/
@@ -37,6 +37,8 @@
   - MoqHao Part 1: Identifying Phishing Infrastructure - see [here](https://team-cymru.com/blog/2021/01/20/moqhao-part-1-identifying-phishing-infrastructure/)
   - MoqHao Part 1.5: High-Level Trends of Recent Campaigns Targeting Japan - see [here](https://team-cymru.com/blog/2021/08/11/moqhao-part-1-5-high-level-trends-of-recent-campaigns-targeting-japan/)
   - MoqHao Part 2: Continued European Expansion - see [here](https://team-cymru.com/blog/2022/04/07/moqhao-part-2-continued-european-expansion/)
+- Next Generation of Latin American Banking Trojans - by [Check Point Research](https://research.checkpoint.com/2021/pixstealer-a-new-wave-of-android-banking-trojans-abusing-accessibility-services/)
+- Massive Fraud Operation Facilitated by Evil Mobile Emulator Farms - by [IBM Trusteer](https://securityintelligence.com/posts/massive-fraud-operation-evil-mobile-emulator-farms/)
 
 #### `Important Reports: State-sponsored`
 -
