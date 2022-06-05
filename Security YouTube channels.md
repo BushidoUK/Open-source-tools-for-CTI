@@ -36,6 +36,7 @@
 #### `Organizations`
 - CitizenLab - https://www.youtube.com/c/CitizenLabUofT/videos
 - SANS Institute - https://www.youtube.com/user/TheSANSInstitute
+- SANS Cyber Defense - https://www.youtube.com/c/SANSBlueTeamOps/videos
 - SANS Digital Forensics and Incident Response - https://www.youtube.com/c/SANSDigitalForensics/videos
 - CyberNews - https://www.youtube.com/c/CyberNews/videos
 - BleepingComputer - https://www.youtube.com/c/bleepingcomputer/videos
