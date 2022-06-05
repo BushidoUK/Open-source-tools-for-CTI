@@ -10,6 +10,8 @@ BSides - https://www.securitybsides.org.uk/
 
 conINT - https://conint.io/
 
+Layer8 Conference - https://layer8conference.com/
+
 Isolation Con - https://www.youtube.com/channel/UCF0I88ErbW_0ZemhD0raFYg/playlists
 
 44con - https://44con.com/
