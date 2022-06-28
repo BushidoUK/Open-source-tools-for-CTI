@@ -38,6 +38,8 @@ Cisco Talos - https://blog.talosintelligence.com/search/label/CVE
 
 Zero Science Lab 0days - https://www.zeroscience.mk/en/vulnerabilities/
 
+Wiz's Open Cloud Vulnerability & Security Issue Database - https://www.cloudvulndb.org/
+
 ### Vulnerability researchers
 
 https://twitter.com/jonasLyk
