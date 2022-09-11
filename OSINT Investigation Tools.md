@@ -36,6 +36,28 @@ Spiderfoot - https://www.spiderfoot.net/
 
 ```
 
+#### Search Engines
+
+https://www.refseek.com/ - is a search engine for academic resources. More than a billion sources 
+ 
+https://www.worldcat.org/ - search the content of 20,000 global libraries. 
+ 
+https://link.springer.com/ - access to more than 10 million scientific documents: books, articles, 
+ 
+https://www.bioline.org.br/ - is a library of published bioscientific journals
+ 
+http://repec.org/ - Volunteers from 102 countries collected nearly 4 million publications 
+ 
+https://www.science.gov/ - is a US government search engine for more than 2200 scientific sites. 
+ 
+https://www.pdfdrive.com/ - is the largest website for free download of PDF books. Claim more than 225 million titles.
+ 
+https://www.base-search.net/ - is one of the most powerful search engines for academic research texts. More than 100 million scientific articles, 70% of which are free
+
+```
+
+```
+
 ### OSINT usernames
 
 https://whatsmyname.app/
