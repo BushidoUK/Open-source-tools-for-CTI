@@ -70,6 +70,8 @@ n14 @olihough86 @JCyberSec_ @Rag_Sec @BufferOfStyx @CybersecStu @ScottMcGready @
 
 [Mobile Threat Intel 📱](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Mobile.md)
 
+[CTI Certifications 📜](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Certifications.md)
+
 ```
 
 ```
