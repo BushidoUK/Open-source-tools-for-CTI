@@ -89,3 +89,9 @@ Cyber Threat Intelligence quotes:
 ### Recommended Reading List 2021:
 
 ![reading list](https://1.bp.blogspot.com/-AbaBLacY9SM/XzGdTjyvGaI/AAAAAAAAD6Y/p_PfjY0y3WMNSHRa_YqJyWN-sE9GoC7xQCLcBGAsYHQ/s640/EfEnu9RWkAI85Ei.jpg)
+
+### Recommended Reading List 2022:
+
+![image](https://user-images.githubusercontent.com/59974887/206178501-922d5c85-c1f1-4ce1-921e-d434d1eeafc1.png)
+
+
