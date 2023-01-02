@@ -23,6 +23,7 @@
 - SubDomainizer - https://github.com/nsonaniya2010/SubDomainizer
 - Get All Urls - https://github.com/lc/gau
 - GHunt - https://github.com/mxrch/GHunt
+- Another Resources Repo - https://github.com/beyzadp/the_kings_of_the_sources
 
 
 ```
