@@ -2,6 +2,8 @@
 
 ```Note - It is recommended not to use these on your home or work machine, but rather a VM without sensitive browser data ```
 
+Criminal IP - https://chrome.google.com/webstore/detail/criminal-ip-ai-based-phis/dhkbjdnlhahnffncheehbnoaecncdpdk?hl=en
+
 Shodan - https://chrome.google.com/webstore/detail/shodan/jjalcfnidlmpjhdfepjhjbhnhkbgleap?utm_source=chrome-ntp-icon
 
 Sputnik - https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd?utm_source=chrome-ntp-icon
