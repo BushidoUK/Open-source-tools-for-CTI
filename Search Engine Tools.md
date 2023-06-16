@@ -2,6 +2,8 @@
 
 Shodan- https://www.shodan.io/
 
+Criminal IP - https://www.criminalip.io/en
+
 Censys.io - https://censys.io/
 
 Abuse IP Database - https://www.abuseipdb.com/
