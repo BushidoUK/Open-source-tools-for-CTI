@@ -38,6 +38,7 @@ Virtual Box - https://www.virtualbox.org/
 
 Virtual Machines from Microsoft - https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 
+Docker - https://www.docker.com/
 ```
 
 ```
