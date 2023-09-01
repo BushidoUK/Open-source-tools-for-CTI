@@ -33,9 +33,9 @@
 
 #### `APT Trend Reports`
 
-- CrowdStrike Yearly Global Threat Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=%22CrowdStrike+Global+Threat+Report%22)
-- Mandiant Yearly M-Trends Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=%22Mandiant+M-Trends%22)
-- Kaspersky GReAT Quarterly APT Trends Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=%22Securelist+APT+trends+report%22)
+- CrowdStrike Yearly GTRs and THRs - [Google Search for Latest report](https://www.google.co.uk/search?q=site%3Acrowdstrike.com+%22Global+Threat+Report%22%7C%22Nowhere+to+hide%22)
+- Mandiant Yearly M-Trends Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=site%3Amandiant.com+%22M-Trends%22)
+- Kaspersky GReAT Quarterly APT Trends Reports - [Google Search for Latest report](https://www.google.co.uk/search?q=site%3Asecurelist.com+%22APT+trends+report%22)
 
 #### `Intelligence Agency and Security Services Internal Structure`
 
