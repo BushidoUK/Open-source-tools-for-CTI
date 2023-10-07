@@ -42,6 +42,8 @@ FBI Ransomware Alerts - https://www.cisa.gov/stopransomware/official-alerts-stat
 
 NCSC Ransomware Alerts - https://www.ncsc.gov.uk/search?q=Ransomware&sort=date%2Bdesc&topics=Cyber+attack
 
+Ransom Payment Legality - https://rkovar.github.io/ransomwarelegality/
+
 ```
 
 ```
