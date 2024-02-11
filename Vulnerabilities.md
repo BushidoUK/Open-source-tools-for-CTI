@@ -1,5 +1,7 @@
 ### Vulnerabilities, bugs, & exploit feeds
 
+CISA Known Exploited Vulnerabilities - https://www.cisa.gov/known-exploited-vulnerabilities-catalog
+
 Google Project Zero (GP0) "0day In the Wild" spreadsheet - https://docs.google.com/spreadsheets/d/1lkNJ0uQwbeC1ZTRrxdtuPLCIl7mlUreoKfSIgajnSyY/view
 
 Full Disclosure - https://seclists.org/fulldisclosure/
