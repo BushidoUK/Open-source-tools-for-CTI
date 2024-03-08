@@ -1,4 +1,4 @@
-### CTI Dat Feeds
+### IOCs Feeds
 
 Automated Alerts of DGA Domains - https://twitter.com/dgafeedalerts
 
