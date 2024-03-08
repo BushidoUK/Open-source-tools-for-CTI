@@ -5,4 +5,4 @@
 - WithSecure - https://www.withsecure.com/en/expertise/research-and-innovation/research/monthly-threat-highlights-report
 - NCC Group - https://www.google.com/search?q=ncc+group+monthly+threat+pulse
 - Cyware - https://cyware.com/resources/threat-briefings/monthly-threat-briefing/
-- 
+- Rewterz - https://www.rewterz.com/monthly-threat-insights/
