@@ -30,7 +30,7 @@ n14 @olihough86 @JCyberSec_ @Rag_Sec @BufferOfStyx @CybersecStu @ScottMcGready @
 
 [Ransomware Intelligence 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/RansomwareIntel.md)
 
-[CTI Feeds 🎱](https://github.com/BushidoUK/Opensource-tools/blob/master/CTI%20Feeds.md)
+[IOC Feeds 🎱](https://github.com/BushidoUK/Opensource-tools/blob/master/CTI%20Feeds.md)
 
 [Virtual Machines 💻](https://github.com/BushidoUK/Opensource-tools/blob/master/VirtualMachine.md)
 
