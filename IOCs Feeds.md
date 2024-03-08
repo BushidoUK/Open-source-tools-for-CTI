@@ -1,4 +1,4 @@
-### CTI Data Feeds
+### CTI Dat Feeds
 
 Automated Alerts of DGA Domains - https://twitter.com/dgafeedalerts
 
