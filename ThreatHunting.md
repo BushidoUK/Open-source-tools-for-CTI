@@ -6,3 +6,4 @@ Detection Rules Feed - https://detection.fyi/
 
 Detect.fyi Blogs & Walkthroughs - https://detect.fyi/
 
+Uncoder IO SIEM Rule Converter - https://uncoder.io/
