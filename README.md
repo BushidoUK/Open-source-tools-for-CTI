@@ -23,6 +23,7 @@ Operational intelligence focuses on medium-term planning and decision-making, pr
 - [Darknet 🕶](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Darknet.md)
 - [ICS/OT Threat Intel 🎛️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/ICS-OT.md)
 - [Mobile Threat Intel 📱](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Mobile.md)
+- [Threat Hunting 🐾](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/ThreatHunting.md)
 
 ### Resources for Tactical Intelligence Requirements
 Tactical intelligence focuses on short-term decision-making and execution of specific actions on in the cyber domain. It deals with immediate threats and other tactical considerations.
@@ -43,6 +44,7 @@ Tactical intelligence focuses on short-term decision-making and execution of spe
 - [Honeypots 🍯](https://github.com/BushidoUK/Opensource-tools/blob/master/Honeypots.md)
 - [OPSEC essentials 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/OPSEC%20essentials.md)
 - [CTI Certifications 📜](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Certifications.md)
+- [Training for CTI Analysts 🧠⬆️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Training.md)
 
 ### InfoSec Community Resources
 - [InfoSec Twitter & Tools 🐦](https://github.com/BushidoUK/Opensource-tools/blob/master/InfoSecTwitter.md)
