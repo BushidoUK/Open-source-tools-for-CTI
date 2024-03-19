@@ -1,5 +1,7 @@
 ### OPSEC essentials
 
+OPSEC 101 Guide - https://github.com/BushidoUK/Operational-Security-101
+
 MFA applications - https://www.microsoft.com/en-us/account/authenticator
 
 Safe browsing - https://www.browserling.com/
