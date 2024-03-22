@@ -18,6 +18,8 @@ Domain/IP lookup - https://www.urlvoid.com/
 
 Domain/IP lookup - https://labs.inquest.net/repdb
 
+Scam database lookup - https://www.scamadviser.com/
+
 Bulk IOC lookup/indexing - https://otx.alienvault.com/pulse/create
 
 Single IOC lookup - https://www.virustotal.com/gui/home/search
@@ -59,3 +61,9 @@ Sandbox submissions - https://tria.ge/s [query syntax required e.g. ip: or domai
 Threat Intel Platform - https://opentip.kaspersky.com/
 
 Threat Intel Platform - https://www.threatminer.org/index.php
+
+Threat Intel Platform - https://pulsedive.com/analyze/
+
+Threat Intel Platform - https://metadefender.opswat.com/
+
+Firewall Lookup - https://urlfiltering.paloaltonetworks.com/query/
