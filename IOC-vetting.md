@@ -48,6 +48,8 @@ URL check - https://www.urlvoid.com/
 
 SSL check - https://sslbl.abuse.ch/ssl-certificates/
 
+CDN check - https://www.cdnplanet.com/
+
 URL check - https://urlhaus.abuse.ch/browse/  [query syntax required e.g. url: or domain:]
 
 Single IOC lookup - https://threatfox.abuse.ch/browse/  [query syntax required e.g. ioc:]
