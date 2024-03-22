@@ -9,6 +9,7 @@
 - Dragos threat groups - https://www.dragos.com/threat-activity-groups/
 - ThaiCERT APT encyclopedia - https://www.thaicert.or.th/downloads/files/A_Threat_Actor_Encyclopedia.pdf
 - ThaiCERT APT encyclopedia v2.0 - https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf
+- APTs targeting Germany - https://www.bsi.bund.de/DE/Themen/Unternehmen-und-Organisationen/Cyber-Sicherheitslage/Analysen-und-Prognosen/Threat-Intelligence/Aktive_APT-Gruppen/aktive-apt-gruppen_node.html
 
 #### `Databases & Collections`
 
@@ -72,8 +73,3 @@
 - Are you an APT target? - https://lab52.io/
 - APT Member Legal Indictments - https://docs.google.com/spreadsheets/d/12iZfDkc-DtVNXV5ZoOiKKZuNGcsb3yQ0V3DNBQIalSo/htmlview#gid=1677585875
 - VX-UNDERGROUND APT samples - https://vx-underground.org/samples/Families/APT/
-
-```
-
-```
-[Home](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/README.md)
