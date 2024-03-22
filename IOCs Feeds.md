@@ -4,6 +4,8 @@ Automated Alerts of DGA Domains - https://twitter.com/dgafeedalerts
 
 Data Feeds - https://osint.bambenekconsulting.com/feeds/
 
+All Cybercrime IP Feeds - https://iplists.firehol.org/
+
 Block Lists - http://www.blocklist.de/en/statistics.html
 
 Botvrij.eu - https://botvrij.eu/data/feed-osint/
