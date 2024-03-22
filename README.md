@@ -9,6 +9,7 @@ This repoisitory of resources has been organized to categorize topics into diffe
 
 ### Resources for Strategic Intelligence Requirements
 Strategic intelligence focuses on long-term planning and decision-making at the highest levels of an organization. It deals with broad, overarching issues that have significant implications for the organization's overall objectives and interests.
+- [CTI Fundamentals ⚙️](https://github.com/curated-intel/CTI-fundamentals)
 - [Adversary Intelligence 🌐](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Adversary%20Intelligence.md)
 - [Ransomware Intelligence 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/RansomwareIntel.md)
 - [Monthly CTI Reports ⏱️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Monthly_CTI_Reports.md)
