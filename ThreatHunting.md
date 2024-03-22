@@ -5,6 +5,7 @@
 - Detection Rules Feed - https://detection.fyi/
 - Detect.fyi Blogs & Walkthroughs - https://detect.fyi/
 - Uncoder IO SIEM Rule Converter - https://uncoder.io/
+- YARA Toolkit - https://yaratoolkit.securitybreak.io/
 
 ### Threat Hunting Theory
 - CrowdStrike S.E.A.R.C.H Methodology - https://www.crowdstrike.com/blog/successful-threat-hunting-starts-with-search/
