@@ -12,6 +12,7 @@ Strategic intelligence focuses on long-term planning and decision-making at the 
 - [Adversary Intelligence 🌐](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Adversary%20Intelligence.md)
 - [Ransomware Intelligence 🔒](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/RansomwareIntel.md)
 - [Monthly CTI Reports ⏱️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/Monthly_CTI_Reports.md)
+- [CTI Reporting ✍️](https://github.com/BushidoUK/Open-source-tools-for-CTI/blob/master/CTI_Reporting.md)
 
 ### Resources for Operational Intelligence Requirements
 Operational intelligence focuses on medium-term planning and decision-making, primarily at the operational level of an organization. It deals with issues related to the execution of specific missions or tasks.
