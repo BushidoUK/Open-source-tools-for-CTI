@@ -11,3 +11,5 @@ https://www.mile2.com/threat-analyst
 https://www.eccouncil.org/programs/threat-intelligence-training
 
 https://mitre-engenuity.org/cybersecurity/mad
+
+https://certifications.tcm-sec.com/pjor/
