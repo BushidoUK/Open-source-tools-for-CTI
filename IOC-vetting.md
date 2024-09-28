@@ -40,6 +40,8 @@ Botnet C2 checks- https://feodotracker.abuse.ch/browse/
 
 Subdomains/DNS lookup - https://dnsdumpster.com/
 
+Subdomains/DNS lookup - https://subdomainradar.io/
+
 Proxy check - https://www.ipqualityscore.com/
 
 IP check - https://www.ipvoid.com/
