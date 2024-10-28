@@ -10,7 +10,7 @@ BSides - https://www.securitybsides.org.uk/
 
 Recorded Future Predict - https://predict.recordedfuture.com/
 
-SANS/NCSC - https://cyberthreat.io/
+SANS/NCSC CyberThreat - https://cyberthreat.io/
 
 Sleuthcon - https://www.sleuthcon.com/
 
