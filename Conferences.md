@@ -1,26 +1,23 @@
-### Conferences 🎤
+### CTI Conferences 🎤
 
-DefCON - https://www.defcon.org/
+DEFCON - https://www.defcon.org/
 
 Black Hat - https://www.blackhat.com/
 
-Secure South West - https://www.securesouthwest.com/?page=home
-
 BSides - https://www.securitybsides.org.uk/
 
-conINT - https://conint.io/
+---
 
-Layer8 Conference - https://layer8conference.com/
+Recorded Future Predict - https://predict.recordedfuture.com/
 
-Isolation Con - https://www.youtube.com/channel/UCF0I88ErbW_0ZemhD0raFYg/playlists
+SANS/NCSC - https://cyberthreat.io/
 
-44con - https://44con.com/
+Sleuthcon - https://www.sleuthcon.com/
 
-SteelCon - https://www.steelcon.info/
+CyberWarCon - https://www.cyberwarcon.com/
 
-SecuriTay - https://securi-tay.co.uk/
+VirusBulletin - https://www.virusbulletin.com/
 
-```
+Botconf - https://www.botconf.eu/
 
-```
-[Home](https://github.com/WilliamThomas-sec/Opensource-tools/)
+PivotCon - https://pivotcon.org/
