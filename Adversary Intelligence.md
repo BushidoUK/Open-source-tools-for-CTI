@@ -70,6 +70,7 @@
 - https://x.com/JAMESWT_WT
 - https://x.com/James_inthe_box
 - https://x.com/TLP_R3D
+- https://x.com/ShanHolo
 
 #### `Additional Resources`
 
