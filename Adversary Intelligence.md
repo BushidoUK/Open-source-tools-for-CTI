@@ -58,16 +58,18 @@
 - https://twitter.com/AnonySecAgency
 - https://twitter.com/cyber__sloth
 - https://twitter.com/blackorbird
-- https://twitter.com/Rmy_Reserve
 - https://twitter.com/h2jazi
 - https://twitter.com/blackorbird
-- https://twitter.com/_thespis
-- https://twitter.com/DeadlyLynn
-- https://twitter.com/0xrb
-- https://twitter.com/InQuest
-- https://twitter.com/cyberoverdrive
 - https://twitter.com/unpacker
 - https://twitter.com/lazarusholic
+- https://x.com/Cyber0verload
+- https://x.com/volrant136
+- https://x.com/k3yp0d
+- https://x.com/malwrhunterteam
+- https://x.com/1ZRR4H
+- https://x.com/JAMESWT_WT
+- https://x.com/James_inthe_box
+- https://x.com/TLP_R3D
 
 #### `Additional Resources`
 
