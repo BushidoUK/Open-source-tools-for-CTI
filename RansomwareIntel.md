@@ -2,6 +2,10 @@
 
 The Ransomware Tool Matrix - https://github.com/BushidoUK/Ransomware-Tool-Matrix
 
+The Ransomware Vulnerability Matrix - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/
+
+Ransomware Countermeasure Tracker - https://virtual-routes.org/ransomware-countermeasures-tracker/
+
 List of Darknet Data Leak victims - https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view
 
 Ransomware blog links - https://github.com/thetanz/ransomwatch/blob/main/docs/INDEX.md
