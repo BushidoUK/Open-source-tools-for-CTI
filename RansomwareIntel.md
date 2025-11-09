@@ -4,6 +4,8 @@ The Ransomware Tool Matrix - https://github.com/BushidoUK/Ransomware-Tool-Matrix
 
 The Ransomware Vulnerability Matrix - https://github.com/BushidoUK/Ransomware-Vulnerability-Matrix/
 
+Ransomware Internal Chat/Resource Leaks and where to find them - https://github.com/BushidoUK/Ransomware-Leaks
+
 Ransomware Countermeasure Tracker - https://virtual-routes.org/ransomware-countermeasures-tracker/
 
 Historical list of Darknet Data Leak victims (2019-05-01 to 2021-07-23) - https://drive.google.com/file/d/1MI8Z2tBhmqQ5X8Wf_ozv3dVjz5sJOs-3/view
