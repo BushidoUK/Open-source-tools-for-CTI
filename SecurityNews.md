@@ -28,3 +28,6 @@
 - cKure InfoSec News - https://telegram.me/s/cKure
 - News Fusion - https://www.newsfusion.com/cyber-security
 ---
+
+#### via Portal
+- The About:Intel platform offers a free community membership that provides access to all enriched data, news, and alerts - https://www.aboutintel.com 
