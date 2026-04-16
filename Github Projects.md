@@ -23,6 +23,7 @@
 - SubDomainizer - https://github.com/nsonaniya2010/SubDomainizer
 - Get All Urls - https://github.com/lc/gau
 - GHunt - https://github.com/mxrch/GHunt
+- ZettelForge - Agentic memory for CTI. Extracts CVEs, actors, IOCs, MITRE ATT&CK techniques. STIX 2.1 knowledge graph with causal chain retrieval. Offline, no API keys. `pip install zettelforge` - https://github.com/rolandpg/zettelforge
 
 
 ```
