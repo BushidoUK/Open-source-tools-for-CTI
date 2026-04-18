@@ -14,6 +14,8 @@ Warble Alerts - https://warble.co/
 
 VisualPing alerts - https://visualping.io/
 
+Snaplert - https://snaplert.com/ (Website change monitoring with AI-powered diffs and email alerts)
+
 Webpage Archiver - http://archive.vn/
 
 Barcode Reader - https://online-barcode-reader.inliteresearch.com/
