@@ -87,6 +87,8 @@ https://www.predictasearch.com
 ```
 ### OSINT collections
 
+70 OSINT Tools - https://niamonx.io
+
 OSINT Tool Blog - https://medium.com/@z3roTrust/open-source-intelligence-osint-reconnaissance-75edd7f7dada :closed_book:
 
 OSINT techniques - https://github.com/sinwindie/OSINT :closed_book:
