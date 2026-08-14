@@ -2,7 +2,7 @@
 
 [Tweetdeck](https://tweetdeck.twitter.com/)
 
-[Geo-Chip](http://www.geochirp.com/)
+[Geo-Chip](https://www.geochirp.com/)
 
 [Tweeps-Map](http://tweepsmap.com/)
 
@@ -22,3 +22,4 @@
 
 ```
 [Home](https://github.com/WilliamThomas-sec/Opensource-tools/)
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)
