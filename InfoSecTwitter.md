@@ -2,7 +2,7 @@
 
 [Tweetdeck](https://tweetdeck.twitter.com/)
 
-[Geo-Chip](http://www.geochirp.com/)
+[Geo-Chip](https://www.geochirp.com/)
 
 [Tweeps-Map](http://tweepsmap.com/)
 
@@ -17,6 +17,8 @@
 [Spoonbill](https://spoonbill.io/)
 
 [Mention Mapp](https://analytics.mentionmapp.com/modules/free/)
+
+[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)
 
 ```
 
