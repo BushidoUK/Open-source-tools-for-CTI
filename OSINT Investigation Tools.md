@@ -4,6 +4,8 @@ OSINT Search Operators - https://github.com/BushidoUK/OSINT-SearchOperators
 
 Image EXIF Data - https://exifdata.com/
 
+MetadataRemover.ai Metadata Viewer - https://metadataremover.ai/metadata-viewer/ - Browser-local EXIF/IPTC/XMP inspection; corroborate findings because metadata may be edited or stripped.
+
 Synapsint - https://www.synapsint.com/
 
 Reddit6 - https://reddit6.com/#/Stream
