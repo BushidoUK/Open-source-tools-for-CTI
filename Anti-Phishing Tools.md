@@ -16,6 +16,7 @@ crt.sh - https://crt.sh/
 
 DNSlytics - https://dnslytics.com/
 
+cl0q - https://cl0q.com/
 StinkyPhish by @olihough86 - https://github.com/olihough86/stinkyphish
 
 Lumpysoft - https://lumpysoft.com/
