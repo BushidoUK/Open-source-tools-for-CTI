@@ -35,6 +35,7 @@
 - Domain/IP lookup - https://search.dnslytics.com/
 - Subdomains/DNS lookup - https://dnsdumpster.com/
 - Proxy check - https://www.ipqualityscore.com/
+- Current-browser VPN/proxy/Tor and bot risk check (ShieldLabs) - https://demo.shieldlabs.ai/anonymity-checker
 - CDN check - https://www.cdnplanet.com/
 
 
